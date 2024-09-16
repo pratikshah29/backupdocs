@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+    <style type="text/css">
+    table { width: 100%; page-break-inside:avoid; }
+    body { font-family: 'Cambria', 'Times New Roman', Serif; font-size: 12pt; }
+    table { margin-bottom: 15px; }
+    
+    .striped tbody tr:nth-child(even) { background-color: #ccc; } 
+    
+    
+    
+.ct-report-heading {
+    vertical-align: top;
+    padding : 10px;
+    text-align:center;
+   
+}
+
+.ct-report-table-heading {
+    vertical-align: top;
+    padding : 10px;
+    text-align:center;
+    font-size:small;
+}
+
+.ct-report-table-heading > th {
+   /* border-top:1px solid;
+    border-bottom:1px solid; */
+}
+
+.ct-report-subheading {
+    vertical-align: top;
+    padding :15px 0px 10px 0px;
+    text-align: left;
+    text-decoration : underline;
+    font-weight:bold;
+}
+
+.ct-reportNormal {
+    padding : 5px;
+    text-align : center;
+}
+
+.amount {
+    text-align:right;
+    padding: 0px 15px 0px 0px;
+    
+}
+
+.name {
+    text-align:left;
+    padding: 15px 0px 0px 0px;
+}
+
+.label {
+    font-weight: bold;
+    text-align:left;
+}
+
+.no-margin{
+    margin: 0px;
+    padding:0px;
+}
+
+.signature{
+    
+    padding-left:2em;
+    margin-left:2em;
+}
+
+.small
+{
+    font-size:small;
+}
+
+.extra-padding{
+        padding-left:2em;
+    }
+
+.value {
+    text-align:left;
+}
+.ct-report-total {
+    font-weight:bold;
+}
+.ct-report-total > td  
+{
+    border-top:1px solid;
+}
+
+@page completeReport
+{
+    size: 8.27in 11.69in;
+    margin: 0.5in 0.5in 0.5in 0.5in;
+}
+
+#completeReport
+{
+    page: completeReport;
+}
+</style>
+
+    <style>
+    table {
+        margin : 0;
+        padding : 0;
+    }
+    </style>
+</head>
+
+<body>
+
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>90</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<div id="completeReport">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="divheader">
+<table class="table table-condensed m40" title="General Information">
+    <tr>
+        <th colspan="2" class="name">
+            <h2 class="no-margin">Sweta Vishal Shah</h2>
+        </th>
+        <th colspan="2" class="amount">
+            <h2 class="no-margin">AY 2021-2022</h2>
+        </th>
+    </tr>
+    <tr >
+        <td colspan="2">
+            <span class="label">Address:</span>
+            <span class="value">g28,2nd floor Sarvodaya nagar 1st panjarapole road c.p.tank</span>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2">
+            <span class="value">
+Mumbai,                 MAHARASHTRA
+ - 400004            </span>
+
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="2">
+                <span class="label">Mobile:</span>
+                <span class="value">91-9930203893</span>
+            </td>
+        </tr>
+            <tr>
+            <td colspan="2">
+                <span class="label">E-Mail:</span>
+                <span class="value">pratikshah83@gmail.com</span>
+            </td>
+        </tr>
+
+    <tr class="ct-report-heading">
+        <th colspan="4">
+            <h3>Computation of Income (ITR2)</h3>
+        </th>
+    </tr>
+</table>
+<hr/>
+</div>
+<table class="table table-condensed striped m40" title="General Information">
+
+
+        <tr>
+                <td>
+                    <b>PAN:</b>
+                </td>
+                <td>
+                    DALPS1078G
+                </td>
+                <td>
+                    <b>Status:</b>
+                </td>
+                <td>
+                    Individual
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Date of Birth</b>
+                </td>
+                <td>
+                    10/11/1982
+                </td>
+                <td>
+                    <b>Residential Status:</b>
+                </td>
+                <td>
+                    Non-Resident
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Father&#x27;s Name:</b>
+                </td>
+                <td>
+                    Bharatkumar jain
+                </td>
+                <td>
+                    <b>Gender:</b>
+                </td>
+                <td>
+                    Female
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Bank A/C no.:</b>
+                </td>
+                <td>
+                    001210310000265
+                </td>
+                <td>
+                    <b>IFSC code:</b>
+                </td>
+                <td>
+                    BKID0000012
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>E-Filing Status:</b>
+                </td>
+                <td>
+                    Not E-Filed
+                </td>
+                <td>
+                    <b>Aadhaar Card Number:</b>
+                </td>
+                <td>
+                    716165141586
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Selected tax regime</b>
+                </td>
+                <td>
+                    OldRegime
+                </td>
+        </tr>
+
+</table>
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+<h4 style="text-align:center">Tax Summary (Amount in 'Rs')</h4>
+<table class="table table-condensed m60"> 
+
+    
+
+                <tr class="">
+            <td>
+                House Property
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 73,080
+            </td>
+        </tr>
+        
+
+                <tr class="">
+            <td>
+                Other Sources
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 2,77,408
+            </td>
+        </tr>
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Gross Total Income
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 3,50,488
+            </td>
+        </tr>
+        
+    
+        
+                <tr class="">
+            <td>
+                Less: Total Deductions
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                - 18,712
+            </td>
+        </tr>
+    
+    
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+
+
+                                    <tr class="">
+                <td style="text-align:right">
+                    Total Income (Taxable)
+                </td>
+                <td style="text-align:center; width:220px; font-size:10pt; font-weight:normal">
+                    Rounded off from 3,31,776 as per Section 288A
+                </td>
+                <td style="text-align:right">
+                    3,31,780
+                </td>
+            </tr>
+                  
+    
+    
+    
+
+                <tr class="">
+            <td>
+                Tax Payable
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 4,253
+            </td>
+        </tr>
+        
+    
+
+    
+    
+    
+
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Total Tax Payable
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 4,253
+            </td>
+        </tr>
+        
+    
+
+
+
+                                    <tr class="">
+                <td style="">
+                    Less: Taxes Paid
+                </td>
+                <td style="text-align:center; width:220px; font-size:10pt; font-weight:normal">
+                    TDS
+                </td>
+                <td style="text-align:right">
+                    - 21,111
+                </td>
+            </tr>
+                  
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+         
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Refund
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 16,860
+            </td>
+        </tr>
+        
+    
+
+                <tr class="">
+            <td>
+                Exempt Income
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 12,682
+            </td>
+        </tr>
+        
+</table>
+        <div>Taxes are applicable as per normal provision</div>
+    <div>Please refer <strong>Annexure</strong> for details</div>
+
+                
+
+                <table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>House Property Income</h4></th></tr><tr class="ct-report-subheading"><td colspan="4">Property 1 : g28,2nd floor, Sarvodaya nagar, 1st panjarapole road, c.p.tank, Mumbai, MAHARASHTRA, INDIA, 400004</td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Occupancy of House</td><td>Rented</td><td></td><td align="right"></td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Ownership</td><td>100</td><td></td><td align="right"></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Gross Annual Rent</td><td align="right">1,32,000</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Less: Municipal Taxes Paid</td><td align="right">-27,600</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Balance (NAR):</td><td></td><td align="right">1,04,400</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Deduction us 24a @ 30% on NAR</td><td align="right">-31,320</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Total Deduction</td><td></td><td align="right">-31,320</td><td></td></tr><tr class="ct-report-total"><td>Income From House Property 1 </td><td></td><td></td><td align="right">73,080</td></tr><tr class="ct-report-total"><td>Total Income From House Property</td><td></td><td></td><td align="right">73,080</td></tr></table><table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Other Income</h4></th></tr><tr class="ct-report-normal"><td>Interest Income from Saving Account</td><td></td><td align="right">2,712</td><td></td></tr><tr class="ct-report-normal"><td>Interest Income from Deposits</td><td></td><td align="right">2,74,696</td><td></td></tr><tr class="ct-report-total"><td>Total</td><td></td><td align="right">2,77,408</td></tr></table>
+
+
+
+    <h3 style="text-align: center">Deductions</h3>
+    <table class="table table-condensed striped m40" border="1" cellspacing="0">
+        <tr>
+            <th>Section</th>
+            <th></th>
+            <th>Amount</th>
+        </tr>
+        
+
+                                    <tr>
+                <td>80C</td>
+                <td></td>
+                <td style="text-align:right" class=>16,000</td>
+            </tr>
+    
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+    
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                                    <tr>
+                <td>80TTA</td>
+                <td></td>
+                <td style="text-align:right" class=>2,712</td>
+            </tr>
+            
+
+                                    <tr>
+                <td>Total</td>
+                <td></td>
+                <td style="text-align:right" class=ct-report-total>18,712</td>
+            </tr>
+    
+        
+
+                            
+    </table>
+<table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Income Tax</h4></th></tr><tr class="ct-report-normal"><td>Total Income</td><td></td><td align="right">3,31,780</td><td></td></tr><tr class="ct-report-normal"><td>Income Tax</td><td></td><td align="right">4,089</td><td></td></tr><tr class="ct-report-normal"><td>Health and Education Cess</td><td></td><td align="right">164</td><td></td></tr><tr class="ct-report-normal"><td>Total Tax</td><td></td><td align="right">4,253</td><td></td></tr><tr class="ct-report-normal"><td>Tax Paid</td><td></td><td align="right">-21,111</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  TDS</td><td align="right">21,111</td><td></td><td></td></tr><tr class="ct-report-normal"><td>Refund</td><td></td><td align="right">16,860</td><td></td></tr></table><table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Exempt Income</h4></th></tr><tr class="ct-report-normal"><td>Interest Income PPF</td><td></td><td align="right">12,682</td><td></td></tr><tr class="ct-report-total"><td>Total Exempt Income</td><td></td><td align="right">12,682</td></tr></table>
+<h3 style="text-align:center">Taxes Paid</h3>
+<h5 style="text-align:center">(TDS on Non Salary Income)</h5>
+
+
+
+
+        <h4 style="text-align:center">TDS on Non Salary Income</h4>
+        <table class="table table-condensed striped m40" border="1" cellspacing="0">
+            <tr>
+                <th>Name</th>
+                <th>Tan</th>
+                <th>Type of Income</th>
+                <th>Deducted Year</th>
+                <th>Brought Forward TDS</th>
+                <th>TDS Amount Claimed</th>
+                    <th>Income For Which TDS Paid</th>
+                <th>Balance</th>
+            </tr>
+                <tr>
+                    <td>ASSISTANT COMMISSIONER OF INCOME TAX CENTRALIZED</td>
+                    <td>BLRA15403D</td>
+                    <td>Other Sources</td>  
+                        <td>2020</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">358</td>
+                            <td style="text-align:right">1,147</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>BANK OF INDIA MUMBAI SOUTH ZONAL OFFICE</td>
+                    <td>MUMB12126C</td>
+                    <td>Other Sources</td>  
+                        <td>2020</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">20,605</td>
+                            <td style="text-align:right">2,74,696</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>YES BANK LIMITED</td>
+                    <td>MUMY02084F</td>
+                    <td>Other Sources</td>  
+                        <td>2020</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">148</td>
+                            <td style="text-align:right">474</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                            <tr class="ct-report-total">
+                    <td colspan="4">Total</td>
+                    <td style="text-align:right">21,111</td>
+                    <td></td>
+                </tr>
+        </table>
+
+
+
+
+
+
+
+
+    <h3 style="text-align:center">Bank Account Details</h3>
+    <table class="table table-condensed striped m40" border="1" cellspacing="0">
+        <tr>
+            <th>SI No.</th>
+            <th>IFSC Code</th>
+            <th>Name of the Bank</th>
+            <th>Account No.</th>
+        </tr>
+
+                <tr>
+                    <td>1</td>
+                    <td>BKID0000012</td>
+                    <td>Bank Of India</td>
+                    <td>001210310000265</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>YESB0000189</td>
+                    <td>Yes Bank</td>
+                    <td>018990500005567</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>YESB0000189</td>
+                    <td>Yes Bank</td>
+                    <td>0189904404631</td>
+                </tr>
+    </table>
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+<div class="footer m60">
+    <br /><br /><br />
+    <div class="signature">
+        <p class="extra-padding">Signature </p>
+        For Sweta Vishal Shah
+    </div>
+    <p class="amount small">
+        Generated by ClearTax (<a href="https://cleartax.in">www.cleartax.in</a>)
+    </p>
+</div>
+
+
+</div>
+</body>
+</html>

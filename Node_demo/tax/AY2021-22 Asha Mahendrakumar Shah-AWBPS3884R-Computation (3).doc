@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+    <style type="text/css">
+    table { width: 100%; page-break-inside:avoid; }
+    body { font-family: 'Cambria', 'Times New Roman', Serif; font-size: 12pt; }
+    table { margin-bottom: 15px; }
+    
+    .striped tbody tr:nth-child(even) { background-color: #ccc; } 
+    
+    
+    
+.ct-report-heading {
+    vertical-align: top;
+    padding : 10px;
+    text-align:center;
+   
+}
+
+.ct-report-table-heading {
+    vertical-align: top;
+    padding : 10px;
+    text-align:center;
+    font-size:small;
+}
+
+.ct-report-table-heading > th {
+   /* border-top:1px solid;
+    border-bottom:1px solid; */
+}
+
+.ct-report-subheading {
+    vertical-align: top;
+    padding :15px 0px 10px 0px;
+    text-align: left;
+    text-decoration : underline;
+    font-weight:bold;
+}
+
+.ct-reportNormal {
+    padding : 5px;
+    text-align : center;
+}
+
+.amount {
+    text-align:right;
+    padding: 0px 15px 0px 0px;
+    
+}
+
+.name {
+    text-align:left;
+    padding: 15px 0px 0px 0px;
+}
+
+.label {
+    font-weight: bold;
+    text-align:left;
+}
+
+.no-margin{
+    margin: 0px;
+    padding:0px;
+}
+
+.signature{
+    
+    padding-left:2em;
+    margin-left:2em;
+}
+
+.small
+{
+    font-size:small;
+}
+
+.extra-padding{
+        padding-left:2em;
+    }
+
+.value {
+    text-align:left;
+}
+.ct-report-total {
+    font-weight:bold;
+}
+.ct-report-total > td  
+{
+    border-top:1px solid;
+}
+
+@page completeReport
+{
+    size: 8.27in 11.69in;
+    margin: 0.5in 0.5in 0.5in 0.5in;
+}
+
+#completeReport
+{
+    page: completeReport;
+}
+</style>
+
+    <style>
+    table {
+        margin : 0;
+        padding : 0;
+    }
+    </style>
+</head>
+
+<body>
+
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>90</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<div id="completeReport">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <div class="divheader">
+<table class="table table-condensed m40" title="General Information">
+    <tr>
+        <th colspan="2" class="name">
+            <h2 class="no-margin">Asha Mahendrakumar Shah</h2>
+        </th>
+        <th colspan="2" class="amount">
+            <h2 class="no-margin">AY 2021-2022</h2>
+        </th>
+    </tr>
+    <tr >
+        <td colspan="2">
+            <span class="label">Address:</span>
+            <span class="value">g28,2nd floor Sarvodaya Nagar 1st panjarapole road c.p.tank</span>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2">
+            <span class="value">
+Mumbai,                 MAHARASHTRA
+ - 400004            </span>
+
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="2">
+                <span class="label">Mobile:</span>
+                <span class="value">91-9930203893</span>
+            </td>
+        </tr>
+            <tr>
+            <td colspan="2">
+                <span class="label">E-Mail:</span>
+                <span class="value">pratikshah83@gmail.com</span>
+            </td>
+        </tr>
+
+    <tr class="ct-report-heading">
+        <th colspan="4">
+            <h3>Computation of Income (ITR2)</h3>
+        </th>
+    </tr>
+</table>
+<hr/>
+</div>
+<table class="table table-condensed striped m40" title="General Information">
+
+
+        <tr>
+                <td>
+                    <b>PAN:</b>
+                </td>
+                <td>
+                    AWBPS3884R
+                </td>
+                <td>
+                    <b>Status:</b>
+                </td>
+                <td>
+                    Individual
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Date of Birth</b>
+                </td>
+                <td>
+                    07/01/1949
+                </td>
+                <td>
+                    <b>Residential Status:</b>
+                </td>
+                <td>
+                    Resident
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Father&#x27;s Name:</b>
+                </td>
+                <td>
+                    Babulal
+                </td>
+                <td>
+                    <b>Gender:</b>
+                </td>
+                <td>
+                    Female
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Bank A/C no.:</b>
+                </td>
+                <td>
+                    001210110008347
+                </td>
+                <td>
+                    <b>IFSC code:</b>
+                </td>
+                <td>
+                    BKID0000012
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>E-Filing Status:</b>
+                </td>
+                <td>
+                    Not E-Filed
+                </td>
+                <td>
+                    <b>Aadhaar Card Number:</b>
+                </td>
+                <td>
+                    615517196997
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Selected tax regime</b>
+                </td>
+                <td>
+                    OldRegime
+                </td>
+        </tr>
+
+</table>
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+<h4 style="text-align:center">Tax Summary (Amount in 'Rs')</h4>
+<table class="table table-condensed m60"> 
+
+    
+
+                <tr class="">
+            <td>
+                House Property
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 7,81,458
+            </td>
+        </tr>
+        
+
+                <tr class="">
+            <td>
+                Other Sources
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 16,808
+            </td>
+        </tr>
+                
+
+                <tr class="">
+            <td>
+                Capital Gain
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 92,080
+            </td>
+        </tr>
+        
+    
+
+
+                                    <tr class="">
+                <td style="text-align:right">
+                    Long Term Capital Gain at 10%
+                </td>
+                <td style="text-align:center; width:220px; font-size:10pt; font-weight:normal">
+                    92,080
+                </td>
+                <td style="text-align:right">
+                    
+                </td>
+            </tr>
+             
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Gross Total Income
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 8,90,346
+            </td>
+        </tr>
+        
+    
+        
+                <tr class="">
+            <td>
+                Less: Total Deductions
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                - 3,31,402
+            </td>
+        </tr>
+    
+    
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+
+
+                                    <tr class="">
+                <td style="text-align:right">
+                    Total Income (Taxable)
+                </td>
+                <td style="text-align:center; width:220px; font-size:10pt; font-weight:normal">
+                    Rounded off from 5,58,944 as per Section 288A
+                </td>
+                <td style="text-align:right">
+                    5,58,940
+                </td>
+            </tr>
+                  
+    
+    
+    
+
+                <tr class="">
+            <td>
+                Tax Payable
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 8,677
+            </td>
+        </tr>
+        
+    
+
+    
+    
+    
+
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Total Tax Payable
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 8,677
+            </td>
+        </tr>
+        
+    
+
+
+
+                                    <tr class="">
+                <td style="">
+                    Less: Taxes Paid
+                </td>
+                <td style="text-align:center; width:220px; font-size:10pt; font-weight:normal">
+                    TDS
+                </td>
+                <td style="text-align:right">
+                    - 43,756
+                </td>
+            </tr>
+                  
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+         
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Refund
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 35,080
+            </td>
+        </tr>
+        
+    
+
+                <tr class="">
+            <td>
+                Exempt Income
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 521
+            </td>
+        </tr>
+        
+</table>
+        <div>Taxes are applicable as per normal provision</div>
+    <div><b>Note :</b> The Long Term Capital Gain from the sale of equity shares and equity funds is included in the Total Income. However, up to Rs. 1 lakhs is excluded at the time of calculating the taxes there on.</div>
+
+                
+
+                <table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>House Property Income</h4></th></tr><tr class="ct-report-subheading"><td colspan="4">Property 1 : g28,2nd floor, Sarvodaya Nagar, 1st panjarapole road, c.p.tank, Mumbai, MAHARASHTRA, INDIA, 400004</td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Occupancy of House</td><td>Rented</td><td></td><td align="right"></td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Ownership</td><td>50</td><td></td><td align="right"></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Gross Annual Rent</td><td align="right">11,46,000</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Less: Municipal Taxes Paid</td><td align="right">-29,632</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Balance (NAR):</td><td></td><td align="right">11,16,368</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Deduction us 24a @ 30% on NAR</td><td align="right">-3,34,910</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Total Deduction</td><td></td><td align="right">-3,34,910</td><td></td></tr><tr class="ct-report-total"><td>Income From House Property 1 </td><td></td><td></td><td align="right">7,81,458</td></tr><tr class="ct-report-total"><td>Total Income From House Property</td><td></td><td></td><td align="right">7,81,458</td></tr></table><table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Other Income</h4></th></tr><tr class="ct-report-normal"><td>Interest Income from Saving Account</td><td></td><td align="right">3,015</td><td></td></tr><tr class="ct-report-normal"><td>Interest Income from Deposits</td><td></td><td align="right">3,387</td><td></td></tr><tr class="ct-report-normal"><td>Dividend Income from Domestic Company</td><td></td><td align="right">10,406</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q1(upto 15th June)</td><td align="right">0</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q2(upto 15th September)</td><td align="right">0</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q3(upto 15th December)</td><td align="right">10,406</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q4(upto 15th March)</td><td align="right">0</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  16th March to 31st March</td><td align="right">0</td><td></td><td></td></tr><tr class="ct-report-total"><td>Total</td><td></td><td align="right">16,808</td></tr></table>
+
+
+
+    <h3 style="text-align: center">Deductions</h3>
+    <table class="table table-condensed striped m40" border="1" cellspacing="0">
+        <tr>
+            <th>Section</th>
+            <th></th>
+            <th>Amount</th>
+        </tr>
+        
+
+                                    <tr>
+                <td>80C</td>
+                <td></td>
+                <td style="text-align:right" class=>1,50,000</td>
+            </tr>
+    
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                                    <tr>
+                <td>80D</td>
+                <td></td>
+                <td style="text-align:right" class=>50,000</td>
+            </tr>
+    
+        
+        <tr>
+            <td style="text-align:right">Medical Insurance Premium - Parents  (Senior)</td>
+            <td style="text-align:right">22,520</td>
+            <td></td>
+        </tr>
+            <tr>
+                <td style="text-align:right">Medical Expenditure - Parents  (Senior)</td>
+                <td style="text-align:right">23,300</td>
+                <td></td>
+            </tr>
+        <tr>
+            <td style="text-align: right">Health Checkup for parent</td>
+            <td style="text-align: right">16,700</td>
+        </tr>
+    
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                            
+        
+
+                                    <tr>
+                <td>80DD</td>
+                <td></td>
+                <td style="text-align:right" class=>1,25,000</td>
+            </tr>
+    
+
+                                    <tr>
+                <td>80TTB</td>
+                <td></td>
+                <td style="text-align:right" class=>6,402</td>
+            </tr>
+            
+
+                                    <tr>
+                <td>Total</td>
+                <td></td>
+                <td style="text-align:right" class=ct-report-total>3,31,402</td>
+            </tr>
+    
+        
+
+                            
+    </table>
+<table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Income Tax</h4></th></tr><tr class="ct-report-normal"><td>Total Income</td><td></td><td align="right">5,58,940</td><td></td></tr><tr class="ct-report-normal"><td>Basic Exemption</td><td></td><td align="right">3,00,000</td><td></td></tr><tr class="ct-report-normal"><td>Income Tax</td><td></td><td align="right">8,343</td><td></td></tr><tr class="ct-report-normal"><td>Health and Education Cess</td><td></td><td align="right">334</td><td></td></tr><tr class="ct-report-normal"><td>Total Tax</td><td></td><td align="right">8,677</td><td></td></tr><tr class="ct-report-normal"><td>Tax Paid</td><td></td><td align="right">-43,756</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  TDS</td><td align="right">43,756</td><td></td><td></td></tr><tr class="ct-report-normal"><td>Refund</td><td></td><td align="right">35,080</td><td></td></tr></table><table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Exempt Income</h4></th></tr><tr class="ct-report-normal"><td>Interest Income PPF</td><td></td><td align="right">521</td><td></td></tr><tr class="ct-report-total"><td>Total Exempt Income</td><td></td><td align="right">521</td></tr></table>
+<h3 style="text-align:center">Taxes Paid</h3>
+<h5 style="text-align:center">(TDS on Non Salary Income)</h5>
+
+
+
+
+        <h4 style="text-align:center">TDS on Non Salary Income</h4>
+        <table class="table table-condensed striped m40" border="1" cellspacing="0">
+            <tr>
+                <th>Name</th>
+                <th>Tan</th>
+                <th>Type of Income</th>
+                <th>Deducted Year</th>
+                <th>Brought Forward TDS</th>
+                <th>TDS Amount Claimed</th>
+                    <th>Income For Which TDS Paid</th>
+                <th>Balance</th>
+            </tr>
+                <tr>
+                    <td>BANK OF INDIA MUMBAI SOUTH ZONAL OFFICE</td>
+                    <td>MUMB12126C</td>
+                    <td>Other Sources</td>  
+                        <td>2020</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">3,387</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>RELIANCE INDUSTRIES LIMITED</td>
+                    <td>MUMR00462A</td>
+                    <td>Other Sources</td>  
+                        <td>2020</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">781</td>
+                            <td style="text-align:right">10,406</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                            <tr class="ct-report-total">
+                    <td colspan="4">Total</td>
+                    <td style="text-align:right">781</td>
+                    <td></td>
+                </tr>
+        </table>
+
+
+
+        <h4 style="text-align:center">TDS on Rental Income from Immovable Property</h4>
+        <table class="table table-condensed striped m40" border="1" cellspacing="0">
+            <tr>
+                <th>Name</th>
+                <th>Pan</th>
+                <th>Deducted Year</th>
+                <th>Brought Forward TDS</th>
+                <th>TDS Amount Claimed</th>
+                <th>Balance</th>
+            </tr>
+                <tr>
+                    <td>PRAXXX XAHENDRAKUMAR SHAH</td>
+                    <td>ASKPS2937G</td>
+                    <td>2020</td>
+                    <td style="text-align:right"></td>
+                    <td style="text-align:right">42,975</td>
+                    <td style="text-align:right">0</td>
+                </tr>
+                    </table>
+
+
+
+
+        <div align="center">
+            <h2>Annexures</h2>
+        </div>
+<style>
+    .propertyTable {
+        vertical-align: bottom;
+        border-bottom: 2px solid #ddd;
+        background-color: #d9d9ee;
+        color: #998cc7;
+        font-weight: bold;
+    }
+</style>
+
+
+
+
+
+
+    <div>
+        <h2>Long Term Capital Gain (Amount in 'Rs')</h2>
+                
+            <h3>Sale of Mutual Funds</h3>
+                <h4>Equity - STT Paid</h4>
+                <table class="table table-condensed striped m40" border="1" cellspacing="0">
+                    <tr>
+                        <th>ISIN - Name of Company</th>
+                        <th>Date of Sale</th>
+                        <th>Number of Shares</th>
+                        <th>Sales Price</th>
+                        <th>Transfer Expense</th>
+                        <th>Net Sales Price</th>
+                        <th>Purchase Date</th>
+                        <th>Purchase Cost</th>
+                            <th>FMV as on 31st Jan 2018</th>
+                        <th>STT Paid</th>
+                        <th>Capital Gain</th>
+                    </tr>
+                    <tr>
+                            <td>Axis Long Term Equity Fund</td>
+                        <td>24/03/21</td>
+                        <td></td>
+                        <td>2,22,187</td>
+                        <td></td>
+                        <td>2,22,187</td>
+                        <td>13/03/18</td>
+                        <td>1,49,006</td>
+                            <td></td>
+                        <td>Yes</td>
+                        <td>73,181</td>
+                    </tr>
+                    <tr>
+                            <td>INF846K01131 - AXIS MUTUAL FUND LONG TERM EQUITY - RG PL GROWTH - OPEN  ENDED</td>
+                        <td>25/03/21</td>
+                        <td>250</td>
+                        <td>14,853</td>
+                        <td></td>
+                        <td>14,853</td>
+                        <td>27/03/17</td>
+                        <td>34</td>
+                            <td>10,575</td>
+                        <td>Yes</td>
+                        <td>4,278</td>
+                    </tr>
+                    <tr>
+                            <td>INF846K01131 - AXIS MUTUAL FUND LONG TERM EQUITY - RG PL GROWTH - OPEN  ENDED</td>
+                        <td>24/03/21</td>
+                        <td>799</td>
+                        <td>48,428</td>
+                        <td></td>
+                        <td>48,428</td>
+                        <td>27/03/17</td>
+                        <td>34</td>
+                            <td>33,815</td>
+                        <td>Yes</td>
+                        <td>14,613</td>
+                    </tr>
+                    <tr>
+                            <td>INF846K01131 - AXIS MUTUAL FUND LONG TERM EQUITY - RG PL GROWTH - OPEN  ENDED</td>
+                        <td>24/03/21</td>
+                        <td>1</td>
+                        <td>36</td>
+                        <td></td>
+                        <td>36</td>
+                        <td>20/01/16</td>
+                        <td>28</td>
+                            <td>25</td>
+                        <td>Yes</td>
+                        <td>8</td>
+                    </tr>
+                    <tr class="ct-report-total">
+                        <td>Total</td>
+                        <td></td>
+                        <td></td>
+                        <td>2,85,504</td>
+                        <td>0</td>
+                        <td>2,85,504</td>
+                        <td></td>
+                        <td>1,49,102</td>
+                            <td>44,415</td>
+                        <td></td>
+                        <td>92,080</td>
+                    </tr>
+                </table>
+            <br />
+
+
+            <div>Total Long Term Capital Gain Other Than Exempt: 92,080 </div>
+                    <div>Total Long Term Capital Gain Exempt: 0 </div>
+        <p><div><b>Note :</b> The Long Term Capital Gain from the sale of equity shares and equity funds is included in the Total Income. However, up to Rs. 1 lakhs is excluded at the time of calculating the taxes there on.</div></p>
+
+
+        <br />
+    </div>
+
+    <h3 style="text-align:center">Bank Account Details</h3>
+    <table class="table table-condensed striped m40" border="1" cellspacing="0">
+        <tr>
+            <th>SI No.</th>
+            <th>IFSC Code</th>
+            <th>Name of the Bank</th>
+            <th>Account No.</th>
+        </tr>
+
+                <tr>
+                    <td>1</td>
+                    <td>BKID0000012</td>
+                    <td>BANK OF INDIA</td>
+                    <td>001210110008347</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>BARB0ZAVERI</td>
+                    <td>Bank of Baroda</td>
+                    <td>04230100010208</td>
+                </tr>
+    </table>
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+<div class="footer m60">
+    <br /><br /><br />
+    <div class="signature">
+        <p class="extra-padding">Signature </p>
+        For Asha Mahendrakumar Shah
+    </div>
+    <p class="amount small">
+        Generated by ClearTax (<a href="https://cleartax.in">www.cleartax.in</a>)
+    </p>
+</div>
+
+
+</div>
+</body>
+</html>

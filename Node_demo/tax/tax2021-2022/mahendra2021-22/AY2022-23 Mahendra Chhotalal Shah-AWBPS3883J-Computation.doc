@@ -1,0 +1,1208 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+    <style type="text/css">
+    table { width: 100%; page-break-inside:avoid; }
+    body { font-family: 'Cambria', 'Times New Roman', Serif; font-size: 12pt; }
+    table { margin-bottom: 15px; }
+    
+    .striped tbody tr:nth-child(even) { background-color: #ccc; } 
+    
+    
+    
+.ct-report-heading {
+    vertical-align: top;
+    padding : 10px;
+    text-align:center;
+   
+}
+
+.ct-report-table-heading {
+    vertical-align: top;
+    padding : 10px;
+    text-align:center;
+    font-size:small;
+}
+
+.ct-report-table-heading > th {
+   /* border-top:1px solid;
+    border-bottom:1px solid; */
+}
+
+.ct-report-subheading {
+    vertical-align: top;
+    padding :15px 0px 10px 0px;
+    text-align: left;
+    text-decoration : underline;
+    font-weight:bold;
+}
+
+.ct-reportNormal {
+    padding : 5px;
+    text-align : center;
+}
+
+.amount {
+    text-align:right;
+    padding: 0px 15px 0px 0px;
+    
+}
+
+.name {
+    text-align:left;
+    padding: 15px 0px 0px 0px;
+}
+
+.label {
+    font-weight: bold;
+    text-align:left;
+}
+
+.no-margin{
+    margin: 0px;
+    padding:0px;
+}
+
+.signature{
+    
+    padding-left:2em;
+    margin-left:2em;
+}
+
+.small
+{
+    font-size:small;
+}
+
+.extra-padding{
+        padding-left:2em;
+    }
+
+.value {
+    text-align:left;
+}
+.ct-report-total {
+    font-weight:bold;
+}
+.ct-report-total > td  
+{
+    border-top:1px solid;
+}
+
+@page completeReport
+{
+    size: 8.27in 11.69in;
+    margin: 0.5in 0.5in 0.5in 0.5in;
+}
+
+#completeReport
+{
+    page: completeReport;
+}
+</style>
+
+    <style>
+    table {
+        margin : 0;
+        padding : 0;
+    }
+    </style>
+</head>
+
+<body>
+
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>90</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<div id="completeReport">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2">
+                
+
+<div class="divheader">
+<table class="table table-condensed m40" title="General Information">
+    <tr>
+        <th colspan="2" class="name">
+            <h2 class="no-margin">Mahendra Chhotalal Shah</h2>
+        </th>
+        <th colspan="2" class="amount">
+            <h2 class="no-margin">AY 2022-2023</h2>
+        </th>
+    </tr>
+    <tr >
+        <td colspan="2">
+            <span class="label">Address:</span>
+            <span class="value">BLOCK NO G 28 2ND FLOORSARVODAYA NAGAR Mumbai Girgaon S.O</span>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2">
+            <span class="value">
+MUMBAI,                 MAHARASHTRA
+ - 400004            </span>
+
+        </td>
+    </tr>
+
+        <tr>
+            <td colspan="2">
+                <span class="label">Mobile:</span>
+                <span class="value">91-9930203893</span>
+            </td>
+        </tr>
+            <tr>
+            <td colspan="2">
+                <span class="label">E-Mail:</span>
+                <span class="value">pratikshah83@gmail.com</span>
+            </td>
+        </tr>
+
+    <tr class="ct-report-heading">
+        <th colspan="4">
+            <h3>Computation of Income (ITR3)</h3>
+        </th>
+    </tr>
+</table>
+<hr/>
+</div>
+<table class="table table-condensed striped m40" title="General Information">
+
+
+        <tr>
+                <td>
+                    <b>PAN:</b>
+                </td>
+                <td>
+                    AWBPS3883J
+                </td>
+                <td>
+                    <b>Status:</b>
+                </td>
+                <td>
+                    Individual
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Date of Birth</b>
+                </td>
+                <td>
+                    12/01/1947
+                </td>
+                <td>
+                    <b>Residential Status:</b>
+                </td>
+                <td>
+                    Resident
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Father&#x27;s Name:</b>
+                </td>
+                <td>
+                    Chhotalal Keshavlal Shah
+                </td>
+                <td>
+                    <b>Gender:</b>
+                </td>
+                <td>
+                    Male
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Bank A/C no.:</b>
+                </td>
+                <td>
+                    001210110008345
+                </td>
+                <td>
+                    <b>IFSC code:</b>
+                </td>
+                <td>
+                    BKID0000012
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>E-Filing Status:</b>
+                </td>
+                <td>
+                    Not E-Filed
+                </td>
+                <td>
+                    <b>Aadhaar Card Number:</b>
+                </td>
+                <td>
+                    950380531172
+                </td>
+        </tr>
+        <tr>
+                <td>
+                    <b>Selected tax regime</b>
+                </td>
+                <td>
+                    Old Regime
+                </td>
+        </tr>
+
+</table>
+
+
+
+                
+
+
+
+
+
+
+
+
+
+
+<h4 style="text-align:center">Tax Summary (Amount in 'Rs')</h4>
+<table class="table table-condensed m60"> 
+
+    
+
+                <tr class="">
+            <td>
+                House Property
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 9,40,940
+            </td>
+        </tr>
+        
+
+                <tr class="">
+            <td>
+                Business and Profession
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 -10,14,972
+            </td>
+        </tr>
+        
+
+                <tr class="">
+            <td>
+                Other Sources
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 5,33,082
+            </td>
+        </tr>
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Gross Total Income
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 4,59,050
+            </td>
+        </tr>
+        
+    
+        
+                <tr class="">
+            <td>
+                Less: Total Deductions
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                - 3,25,000
+            </td>
+        </tr>
+    
+    
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+
+
+                                    <tr class="">
+                <td style="text-align:right">
+                    Total Income (Taxable)
+                </td>
+                <td style="text-align:center; width:220px; font-size:10pt; font-weight:normal">
+                    Rounded off from 1,34,050 as per Section 288A
+                </td>
+                <td style="text-align:right">
+                    1,34,050
+                </td>
+            </tr>
+                  
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+    
+    
+
+    
+
+
+
+                                    <tr class="">
+                <td style="">
+                    Less: Taxes Paid
+                </td>
+                <td style="text-align:center; width:220px; font-size:10pt; font-weight:normal">
+                    TDS
+                </td>
+                <td style="text-align:right">
+                    - 95,130
+                </td>
+            </tr>
+                  
+    
+        <tr style="background-color:black">
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    
+    
+
+         
+    
+
+                <tr class="ct-report-total">
+            <td>
+                Refund
+            </td>
+            <td></td>
+            <td style="text-align:right">
+                 95,130
+            </td>
+        </tr>
+        
+    
+    
+</table>
+        <div>Taxes are applicable as per normal provision</div>
+    <div>Please refer <strong>Annexure</strong> for details</div>
+
+                
+
+                <table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>House Property Income</h4></th></tr><tr class="ct-report-subheading"><td colspan="4">Property 1 : G-28, SARVODAYA NAGAR, PANJRAPOLE 1ST LANE, ., MUMBAI, MAHARASHTRA, INDIA, 400004</td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Occupancy of House</td><td>Rented</td><td></td><td align="right"></td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Ownership</td><td>50</td><td></td><td align="right"></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Gross Annual Rent</td><td align="right">12,00,000</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Less: Municipal Taxes Paid</td><td align="right">-30,000</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Balance (NAR):</td><td></td><td align="right">11,70,000</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Deduction us 24a @ 30% on NAR</td><td align="right">-3,51,000</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Total Deduction</td><td></td><td align="right">-3,51,000</td><td></td></tr><tr class="ct-report-total"><td>Income From House Property 1 </td><td></td><td></td><td align="right">8,19,000</td></tr><tr class="ct-report-subheading"><td colspan="4">Property 2 : 89 Nagdevi street, nagdevi street, Mumbai, MAHARASHTRA, INDIA, 400003</td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Occupancy of House</td><td>Rented</td><td></td><td align="right"></td></tr><tr class="ct-report-normal"><td>&nbsp &nbsp &nbsp &nbsp Ownership</td><td>100</td><td></td><td align="right"></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Gross Annual Rent</td><td align="right">2,14,200</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Less: Municipal Taxes Paid</td><td align="right">-40,000</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Balance (NAR):</td><td></td><td align="right">1,74,200</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Deduction us 24a @ 30% on NAR</td><td align="right">-52,260</td><td></td><td></td></tr><tr class="ct-report-subtotal"><td>&nbsp; &nbsp; &nbsp; &nbsp; Total Deduction</td><td></td><td align="right">-52,260</td><td></td></tr><tr class="ct-report-total"><td>Income From House Property 2 </td><td></td><td></td><td align="right">1,21,940</td></tr><tr class="ct-report-total"><td>Total Income From House Property</td><td></td><td></td><td align="right">9,40,940</td></tr></table><table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Business and Profession</h4></th></tr><tr class="ct-report-total"><td>Particulars</td><td></td><td>Amount</td><td align="right"></td></tr><tr class="ct-report-normal"><td>Profit (where books of accounts maintained)</td><td></td><td align="right">-10,14,972</td><td></td></tr><tr class="ct-report-total"><td>Net Income under the head &quot;Business and Profession&quot;</td><td></td><td></td><td align="right">-10,14,972</td></tr></table>
+
+    <p class="ct-report-subheading">Profit (where books of accounts maintained)</p>
+    <table class="table table-condensed striped m60" border="1" cellspacing="0">
+        <tr>
+            <th colspan="2" style="text-align: left">Business nature</th>
+            <th style="text-align: center">Business code</th>
+            <th style="text-align: center">Trade Name</th>
+        </tr>
+            <tr>
+                <td colspan="2" style="text-align: left">Retail sale of other products n.e.c </td>
+                <td style="text-align: center">09028</td>
+                <td style="text-align: center">Income from Future &amp; Options, Commodities, Currency Derivatives and other Non-speculative activities</td>
+            </tr>
+    </table>
+<table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4></h4></th></tr><tr class="ct-report-normal"><td>Profit as per profit and loss account</td><td></td><td align="right">-10,14,972</td><td></td></tr><tr class="ct-report-total"><td>Net Profit</td><td></td><td></td><td align="right">-10,14,972</td></tr></table>
+<table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Other Income</h4></th></tr><tr class="ct-report-normal"><td>Interest Income from Saving Account</td><td></td><td align="right">1,844</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Bank of india</td><td align="right">1,844</td><td></td><td></td></tr><tr class="ct-report-normal"><td>Interest Income from Deposits</td><td></td><td align="right">2,12,144</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  BANK OF INDIA MUMBAI SOUTH ZONAL OFFICE</td><td align="right">47,894</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  JAIN PRAKASHCHAND VANECHA ND (PROP S R SYNTHETICS)</td><td align="right">1,64,250</td><td></td><td></td></tr><tr class="ct-report-normal"><td>Interest Income From Income Tax Refund</td><td></td><td align="right">5,180</td><td></td></tr><tr class="ct-report-normal"><td>Dividend Income from Domestic Company</td><td></td><td align="right">3,13,914</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q1(upto 15th June)</td><td align="right">14,853</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q2(upto 15th September)</td><td align="right">1,05,676</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q3(upto 15th December)</td><td align="right">84,781</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  Q4(upto 15th March)</td><td align="right">95,163</td><td></td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  16th March to 31st March</td><td align="right">13,441</td><td></td><td></td></tr><tr class="ct-report-total"><td>Total</td><td></td><td align="right">5,33,082</td></tr></table>
+
+
+
+    <h3 style="text-align: center">Deductions</h3>
+    <table class="table table-condensed striped m40" border="1" cellspacing="0">
+        <tr>
+            <th>Section</th>
+            <th></th>
+            <th>Amount</th>
+        </tr>
+        
+
+                            <tr>
+                <td>80C</td>
+                <td></td>
+                <td style="text-align:right" class=>1,50,000</td>
+            </tr>
+    
+        
+
+                    
+        
+
+                    
+        
+
+                    
+        
+
+                    
+        
+
+                    
+        
+    
+        
+
+                    
+        
+
+                    
+        
+
+                    
+        
+
+                    
+        
+
+                            <tr>
+                <td>80DD</td>
+                <td></td>
+                <td style="text-align:right" class=>1,25,000</td>
+            </tr>
+    
+
+                            <tr>
+                <td>80TTB</td>
+                <td></td>
+                <td style="text-align:right" class=>50,000</td>
+            </tr>
+            
+
+                            <tr>
+                <td>Total</td>
+                <td></td>
+                <td style="text-align:right" class=ct-report-total>3,25,000</td>
+            </tr>
+    
+        
+
+                    
+    </table>
+        <table class="table table-condensed m60" title="Loss Report Collection">
+            <tr><th colspan="4"><h4>Loss Report Collection</h4></th></tr>
+            <tr class="ct-report-header" style = "text-align:left" >
+                <th>Year of Loss</th>
+                <th>Category of Loss</th>
+                <th>SetOff Category</th>
+                <th align = right>Amount SetOff</th>
+            </tr>
+                <tr class="ct-report-normal">
+                    <td>2022-2023 </td>
+                <td>BusinessAndProfession</td>
+                
+                    <td>HouseProperty</td>
+                
+
+                <td align="right">Rs. 9,40,940</td>
+                </tr>
+                <tr class="ct-report-normal">
+                    <td>2022-2023 </td>
+                <td>BusinessAndProfession</td>
+                
+                    <td>OtherIncome</td>
+                
+
+                <td align="right">Rs. 74,032</td>
+                </tr>
+        </table>       
+<table class="table table-condensed m60"><tr class="ct-report-heading"><th colspan="4"><h4>Income Tax</h4></th></tr><tr class="ct-report-normal"><td>Total Income</td><td></td><td align="right">1,34,050</td><td></td></tr><tr class="ct-report-normal"><td>Basic Exemption</td><td></td><td align="right">3,00,000</td><td></td></tr><tr class="ct-report-normal"><td>Income Tax</td><td></td><td align="right">0</td><td></td></tr><tr class="ct-report-normal"><td>Tax Paid</td><td></td><td align="right">-95,130</td><td></td></tr><tr class="ct-report-nested"><td>&nbsp; &nbsp; &nbsp; &nbsp;  TDS</td><td align="right">95,130</td><td></td><td></td></tr><tr class="ct-report-normal"><td>Refund</td><td></td><td align="right">95,130</td><td></td></tr></table>
+    <h3 style="text-align:center">Taxes Paid</h3>
+<h5 style="text-align:center">(TDS on Non Salary Income)</h5>
+
+
+
+
+        <h4 style="text-align:center">TDS on Non Salary Income</h4>
+        <table class="table table-condensed striped m40" border="1" cellspacing="0">
+            <tr>
+                <th>Name</th>
+                <th>Tan</th>
+                <th>Type of Income</th>
+                <th>Deducted Year</th>
+                <th>Brought Forward TDS</th>
+                <th>TDS Amount Claimed</th>
+                    <th>Income For Which TDS Paid</th>
+                <th>Balance</th>
+            </tr>
+                <tr>
+                    <td>ALEMBIC PHARMACEUTICALS LIMITED</td>
+                    <td>BRDA03515B</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">2,450</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>ASHOK LEYLAND LIMITED</td>
+                    <td>CHEA31306C</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">445</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>BANK OF INDIA MUMBAI SOUTH ZONAL OFFICE</td>
+                    <td>MUMB12126C</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">387</td>
+                            <td style="text-align:right">47,894</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>BHARAT PETROLEUM CORPORATION LIMITED</td>
+                    <td>PNEB16470G</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">730</td>
+                            <td style="text-align:right">6,800</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>CESC LTD.</td>
+                    <td>CALC00188G</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">4,860</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>CITY UNION BANK LIMITED REGISTERED OFFICE KUMBAKONAM</td>
+                    <td>CHEC11625F</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">82</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>COAL INDIA LIMITED</td>
+                    <td>CALC00051C</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">1,053</td>
+                            <td style="text-align:right">10,518</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>EMMBI INDUSTRIES LIMITED</td>
+                    <td>MUME02122B</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">80</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>ENGINEERS INDIA LIMITED</td>
+                    <td>RTKE03121G</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">892</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>GAIL INDIA LIMITED</td>
+                    <td>DELG11331F</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">1,440</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>GUJARAT ALKALIES AND CHEMICALS LIMITED</td>
+                    <td>BRDG00596B</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">563</td>
+                            <td style="text-align:right">5,624</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED</td>
+                    <td>MUMI03877G</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">568</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>JAIN PRAKASHCHAND VANECHA ND (PROP S R SYNTHETICS)</td>
+                    <td>MUMJ10339A</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">16,425</td>
+                            <td style="text-align:right">1,64,250</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>JUBILANT FOODWORKS LIMITED</td>
+                    <td>DELD03279D</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">216</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>KAJARIA CERAMICS LTD</td>
+                    <td>DELK05579A</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">816</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>KARNATAKA BANK LIMITED</td>
+                    <td>BLRK07771B</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">851</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>MOIL LIMITED</td>
+                    <td>NGPM00667C</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">512</td>
+                            <td style="text-align:right">5,119</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>N.M.D.C.LTD.</td>
+                    <td>HYDN00035A</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">1,424</td>
+                            <td style="text-align:right">14,239</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>NATIONAL ALUMINIUM COMPANY LTD.</td>
+                    <td>BBNN00046E</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">1,572</td>
+                            <td style="text-align:right">13,100</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>NCC LIMITED</td>
+                    <td>HYDN00212C</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">613</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>OIL AND NATURAL GAS CORPORATION LIMITED</td>
+                    <td>DELO07879E</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">779</td>
+                            <td style="text-align:right">6,199</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>OIL INDIA LIMITED</td>
+                    <td>MRTO00453F</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">556</td>
+                            <td style="text-align:right">5,558</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>PARAG MILK FOODS PRIVATE LIMITED</td>
+                    <td>PNEP02591B</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">335</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>PCBL LIMITED</td>
+                    <td>CALP00035A</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">742</td>
+                            <td style="text-align:right">7,420</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>POLY PLEX CORPORATION LTD</td>
+                    <td>DELP00591D</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">2,292</td>
+                            <td style="text-align:right">22,900</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>POWER FINANCE CORPORATION LIMITED</td>
+                    <td>DELP34120C</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">541</td>
+                            <td style="text-align:right">2,544</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>POWER GRID CORPORATION OF INDIA LIMITED</td>
+                    <td>DELP32841E</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">1,000</td>
+                            <td style="text-align:right">9,998</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>PROCTER &amp; GAMBLE HYGIENE AND HEALTH CARE LIMITED</td>
+                    <td>MUMP10705C</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">350</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>RELIANCE INDUSTRIES LIMITED</td>
+                    <td>MUMR00462A</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">644</td>
+                            <td style="text-align:right">6,436</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>SJVN LIMITED</td>
+                    <td>DELS87955A</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">2,548</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>STATE BANK OF INDIA</td>
+                    <td>MUMS99307F</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">3,280</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>STEEL AUTHORITY OF INDIA LTD</td>
+                    <td>DELS21126A</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">3,320</td>
+                            <td style="text-align:right">33,200</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>SUNTECK REALTY LIMITED</td>
+                    <td>MUMI06319F</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">171</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>TATA STEEL LIMITED</td>
+                    <td>MUMT00249E</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">1,350</td>
+                            <td style="text-align:right">13,500</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>THE BOMBAY BURMAH TRADING CORPORATION LTD.</td>
+                    <td>MUMT09656D</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">0</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>THE BOMBAY BURMAH TRADING CORPORATION LTD.</td>
+                    <td>MUMT09656D</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">0</td>
+                            <td style="text-align:right">43</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>THE SUKHJIT STARCH &amp; CHEMICALS LTD</td>
+                    <td>JLDT00612D</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">520</td>
+                            <td style="text-align:right">5,200</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                <tr>
+                    <td>VRL LOGISTICS LIMITED</td>
+                    <td>BLRV02701G</td>
+                    <td>Other Sources</td>  
+                        <td>2021</td>
+                        <td style="text-align:right"></td>
+                        <td style="text-align:right">720</td>
+                            <td style="text-align:right">4,800</td>
+                        <td style="text-align:right">0</td>
+                    </tr>
+                            <tr class="ct-report-total">
+                    <td colspan="5">Total</td>
+                    <td style="text-align:right">35,130</td>
+                    <td></td>
+                </tr>
+        </table>
+
+
+
+        <h4 style="text-align:center">TDS on Rental Income from Immovable Property</h4>
+        <table class="table table-condensed striped m40" border="1" cellspacing="0">
+            <tr>
+                <th>Name</th>
+                <th>Pan</th>
+                <th>Deducted Year</th>
+                <th>Brought Forward TDS</th>
+                <th>TDS Amount Claimed</th>
+                <th>Balance</th>
+            </tr>
+                <tr>
+                    <td>PRAXXX XAHENDRAKUMAR SHAH </td>
+                    <td>ASKPS2937G</td>
+                    <td>2021</td>
+                    <td style="text-align:right"></td>
+                    <td style="text-align:right">60,000</td>
+                    <td style="text-align:right">0</td>
+                </tr>
+                    </table>
+
+
+
+
+
+
+
+    <h3 style="text-align:center">Bank Account Details</h3>
+    <table class="table table-condensed striped m40" border="1" cellspacing="0">
+        <tr>
+            <th>SI No.</th>
+            <th>IFSC Code</th>
+            <th>Name of the Bank</th>
+            <th>Account No.</th>
+        </tr>
+
+                <tr>
+                    <td>1</td>
+                    <td>BKID0000012</td>
+                    <td>BANK OF INDIA</td>
+                    <td>001210110008345</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>BKID0000017</td>
+                    <td>BANK OF INDIA</td>
+                    <td>001720110000250</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>BKID0000012</td>
+                    <td>BANK OF INDIA</td>
+                    <td>001210110008345</td>
+                </tr>
+    </table>
+
+
+<style>
+    h5 {
+        margin-block-end: auto;
+    }
+</style>
+
+    <div>
+        <h3 style="text-align:left">In case of books of accounts maintained</h3>
+        <table class="table table-condensed m40 balance-sheet-table" border="1" cellspacing="0">
+            <tr>
+                <th colspan="3">Balance sheet as on 31st March, 2022</th>
+            </tr>
+            <tr>
+                <th>Particulars</th>
+                <th>Amount in INR</th>
+                <th>Amount in INR</th>
+            </tr>
+
+                            <tr><td colspan="3">&nbsp;</td></tr>
+                            <tr>
+                                <th colspan="3">4. Statement of Trading account for the FY 2021-2022</th>
+                            </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Revenue from operations</h5>
+            </td>
+                                <td>
+        </td>
+                                <td></td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sales/ Gross receipts of business </span>
+            </td>
+                                <td>
+        </td>
+                                <td></td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other operating revenue</span>
+            </td>
+                                <td>
+                    <div style='text-align: right;'>69,77,564</div>
+        </td>
+                                <td></td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duties, taxes and cess received or receivable in respect of goods and services sold or supplied</span>
+            </td>
+                                <td>
+        </td>
+                                <td></td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total Revenue from operations </span>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>69,77,564</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Total of credits to Trading Account </h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>69,77,564</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Direct Expenses</h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>79,92,536</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other direct expenses</span>
+            </td>
+                                <td>
+                    <div style='text-align: right;'>79,92,536</div>
+        </td>
+                                <td></td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Gross Profit from Business/Profession - transferred to Profit and Loss account </h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>-10,14,972</h5>
+        </td>
+                        </tr>
+                            <tr><td colspan="3">&nbsp;</td></tr>
+                            <tr>
+                                <th colspan="3">5. Statement of Profit and Loss account for the FY 2021-2022</th>
+                            </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Gross profit transferred from Trading Account</h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>-10,14,972</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Total of credits</h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>-10,14,972</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Net Profit before taxes </h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>-10,14,972</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Profit after tax </h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>-10,14,972</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Amount available for appropriation </h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>-10,14,972</h5>
+        </td>
+                        </tr>
+                        <tr>
+                            <td>
+                    <h5 style='font-size:1em;'>Balance carried to balance sheet in proprietor&#x27;s account </h5>
+            </td>
+                                <td></td>
+                                <td>
+                    <h5 style='text-align: right;font-size:1em;'>-10,14,972</h5>
+        </td>
+                        </tr>
+        </table>
+    </div>
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+<div class="footer m60">
+    <br /><br /><br />
+    <div class="signature">
+        <p class="extra-padding">Signature </p>
+        For Mahendra Chhotalal Shah
+    </div>
+    <p class="amount small">
+        Generated by ClearTax (<a href="https://cleartax.in">www.cleartax.in</a>)
+    </p>
+</div>
+
+
+</div>
+</body>
+</html>

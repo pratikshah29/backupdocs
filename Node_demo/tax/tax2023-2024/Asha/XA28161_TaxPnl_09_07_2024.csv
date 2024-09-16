@@ -1,0 +1,7 @@
+﻿"Transaction Type","Company Code","ISIN","Scrip Symbol","Scrip Name","Buy Date","Buy Quantity","Buy Rate","Sell Date","Sell Quantity","Sell Rate","Profit & Loss Amount","Available Qty","Last Traded Price","Expense Details","Stock Exchange"
+"LONGTERM","BSE_CASH","INE028A01039","BANKBARODA","BANK OF BARODA","February, 17 2022","1","107.4","June, 28 2023","1","190.05","82.65","0","264.2","0","Stock"
+"LONGTERM","BSE_CASH","INE129A01019","GAIL","GAIL (INDIA) LTD.","March, 31 2022","2","155.538","February, 02 2024","2","177.1","43.12","0","181.15","0","Stock"
+"SHORTTERM","NSE_CASH","INE160A01022","PNB","PUNJAB NATIONAL BANK","August, 22 2023","37","62.55","December, 12 2023","37","88.75","969.4","0","124.4","0","Stock"
+"SHORTTERM","NSE_CASH","INE160A01022","PNB","PUNJAB NATIONAL BANK","December, 14 2023","700","89.6","December, 12 2023","700","88.75","-595","0","124.4","0","Stock"
+"SHORTTERM","NSE_CASH","INE002A01018","RELIANCE  ","RELIANCE INDUSTRIES LTD.","August, 22 2023","10","2524.87","August, 18 2023","10","2530.7","58.3","0","2976.8","0","Stock"
+"TRADING","NSE_CASH","INE002A01018","RELIANCE  ","RELIANCE INDUSTRIES LTD.","August, 22 2023","1","2524.9","August, 22 2023","1","2525.25","0.35","0","2976.8","0","Stock"

@@ -1,0 +1,4 @@
+﻿"Transaction Type","Company Code","ISIN","Scrip Symbol","Scrip Name","Buy Date","Buy Quantity","Buy Rate","Sell Date","Sell Quantity","Sell Rate","Profit & Loss Amount","Available Qty","Last Traded Price","Expense Details","Stock Exchange"
+"Option_Book","NSE_FNO","IO CE BANKNIFTY 18Oct2023 44500","IO CE BANKNIFTY 18Oct2023 44500","BANKNIFTY","October, 17 2023","195","77.042307","October, 18 2023","195","9","-13268.25","0","0","0","Other"
+"Option_Book","NSE_FNO","IO CE BANKNIFTY 18Oct2023 45000","IO CE BANKNIFTY 18Oct2023 45000","BANKNIFTY","October, 10 2023","1935","121.012015","October, 17 2023","1935","7.85","-218968.5","0","0","0","Other"
+"Option_Book","NSE_FNO","IO CE BANKNIFTY 11Oct2023 44500","IO CE BANKNIFTY 11Oct2023 44500","BANKNIFTY","October, 09 2023","2340","41.080769","October, 10 2023","2340","100.76923","139671","0","0","0","Other"
