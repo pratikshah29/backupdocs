@@ -9,6 +9,9 @@
    id="svg44949"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="visiting_card1.svg"
+   inkscape:export-filename="visiting_card1.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,8 +29,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="1.0444209"
-     inkscape:cx="-36.862532"
-     inkscape:cy="271.92102"
+     inkscape:cx="-188.14254"
+     inkscape:cy="250.85672"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -238,350 +241,345 @@
        id="g25869"
        transform="matrix(-9.6189414e-4,0.00385863,-0.00608384,-0.00121325,23.354973,41.524718)"
        style="fill:#88bc3e;fill-opacity:1">
-	<g
-   id="g25845"
-   style="fill:#88bc3e;fill-opacity:1">
-		<path
-   fill="#6e83b7"
-   d="M 50,247.389 H 10 C 10,183.98 34.693,124.367 79.529,79.53 124.366,34.693 183.98,10 247.389,10 V 50 C 138.548,50 50,138.548 50,247.389 Z"
-   id="path25843"
-   style="fill:#88bc3e;fill-opacity:1" />
-
-	</g>
-
-	<g
-   id="g25849"
-   style="fill:#88bc3e;fill-opacity:1">
-		<path
-   fill="#6e83b7"
-   d="m 119.257,247.389 h -40 c 0,-92.708 75.424,-168.132 168.132,-168.132 v 40 c -70.653,0 -128.132,57.479 -128.132,128.132 z"
-   id="path25847"
-   style="fill:#88bc3e;fill-opacity:1" />
-
-	</g>
-
-	<g
-   id="g25853"
-   style="fill:#88bc3e;fill-opacity:1">
-		<path
-   fill="#6e83b7"
-   d="m 188.513,247.389 h -40 c 0,-54.52 44.355,-98.875 98.875,-98.875 v 40 c -32.463,-0.001 -58.875,26.411 -58.875,58.875 z"
-   id="path25851"
-   style="fill:#88bc3e;fill-opacity:1" />
-
-	</g>
-
-	<g
-   id="g25867"
-   style="fill:#88bc3e;fill-opacity:1">
-		<g
-   id="g25857"
-   style="fill:#88bc3e;fill-opacity:1">
-			<path
-   fill="#6e83b7"
-   d="M 318.901,318.901 C 379.3,258.502 380.91,213.405 380.91,213.405 L 339.839,172.334 444.53,67.642 l 37.452,37.452 c 13.929,13.929 21.176,33.185 19.868,52.84 -2.891,43.448 -23.755,124.181 -121.745,222.171 -97.99,97.99 -178.724,118.853 -222.171,121.744 -19.655,1.308 -38.911,-5.939 -52.84,-19.868 L 67.642,444.53 172.333,339.839 213.404,380.91 c 0,0 45.098,-1.611 105.497,-62.009 z"
-   id="path25855"
-   style="fill:#88bc3e;fill-opacity:1" />
-
-		</g>
-
-		<g
-   id="g25861"
-   style="fill:#88bc3e;fill-opacity:1">
-			
-				<rect
-   x="20.212999"
-   y="363.021"
-   transform="matrix(0.7071,-0.7071,0.7071,0.7071,-237.1691,187.6323)"
-   fill="#edeff1"
-   width="175.38901"
-   height="34.167"
-   id="rect25859"
-   style="fill:#88bc3e;fill-opacity:1" />
-
-		</g>
-
-		<g
-   id="g25865"
-   style="fill:#88bc3e;fill-opacity:1">
-			
-				<rect
-   x="292.41"
-   y="90.823997"
-   transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,725.1813,-84.5645)"
-   fill="#edeff1"
-   width="175.38901"
-   height="34.167"
-   id="rect25863"
-   style="fill:#88bc3e;fill-opacity:1" />
-
-		</g>
-
-	</g>
-
-</g>
+      <g
+         id="g25845"
+         style="fill:#88bc3e;fill-opacity:1">
+        <path
+           fill="#6e83b7"
+           d="M 50,247.389 H 10 C 10,183.98 34.693,124.367 79.529,79.53 124.366,34.693 183.98,10 247.389,10 V 50 C 138.548,50 50,138.548 50,247.389 Z"
+           id="path25843"
+           style="fill:#88bc3e;fill-opacity:1" />
+      </g>
+      <g
+         id="g25849"
+         style="fill:#88bc3e;fill-opacity:1">
+        <path
+           fill="#6e83b7"
+           d="m 119.257,247.389 h -40 c 0,-92.708 75.424,-168.132 168.132,-168.132 v 40 c -70.653,0 -128.132,57.479 -128.132,128.132 z"
+           id="path25847"
+           style="fill:#88bc3e;fill-opacity:1" />
+      </g>
+      <g
+         id="g25853"
+         style="fill:#88bc3e;fill-opacity:1">
+        <path
+           fill="#6e83b7"
+           d="m 188.513,247.389 h -40 c 0,-54.52 44.355,-98.875 98.875,-98.875 v 40 c -32.463,-0.001 -58.875,26.411 -58.875,58.875 z"
+           id="path25851"
+           style="fill:#88bc3e;fill-opacity:1" />
+      </g>
+      <g
+         id="g25867"
+         style="fill:#88bc3e;fill-opacity:1">
+        <g
+           id="g25857"
+           style="fill:#88bc3e;fill-opacity:1">
+          <path
+             fill="#6e83b7"
+             d="M 318.901,318.901 C 379.3,258.502 380.91,213.405 380.91,213.405 L 339.839,172.334 444.53,67.642 l 37.452,37.452 c 13.929,13.929 21.176,33.185 19.868,52.84 -2.891,43.448 -23.755,124.181 -121.745,222.171 -97.99,97.99 -178.724,118.853 -222.171,121.744 -19.655,1.308 -38.911,-5.939 -52.84,-19.868 L 67.642,444.53 172.333,339.839 213.404,380.91 c 0,0 45.098,-1.611 105.497,-62.009 z"
+             id="path25855"
+             style="fill:#88bc3e;fill-opacity:1" />
+        </g>
+        <g
+           id="g25861"
+           style="fill:#88bc3e;fill-opacity:1">
+          <rect
+             x="20.212999"
+             y="363.021"
+             transform="matrix(0.7071,-0.7071,0.7071,0.7071,-237.1691,187.6323)"
+             fill="#edeff1"
+             width="175.38901"
+             height="34.167"
+             id="rect25859"
+             style="fill:#88bc3e;fill-opacity:1" />
+        </g>
+        <g
+           id="g25865"
+           style="fill:#88bc3e;fill-opacity:1">
+          <rect
+             x="292.41"
+             y="90.823997"
+             transform="matrix(-0.7071,0.7071,-0.7071,-0.7071,725.1813,-84.5645)"
+             fill="#edeff1"
+             width="175.38901"
+             height="34.167"
+             id="rect25863"
+             style="fill:#88bc3e;fill-opacity:1" />
+        </g>
+      </g>
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.63162px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.10195;stroke-opacity:1"
-       x="4.2531033"
-       y="56.864861"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.77361px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.10745;stroke-opacity:1"
+       x="3.7461803"
+       y="64.138115"
        id="text30545"
-       transform="scale(0.87951251,1.1369935)"><tspan
+       transform="scale(0.99878866,1.0012128)"><tspan
          sodipodi:role="line"
          id="tspan30543"
-         style="fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="56.864861" /><tspan
+         style="fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="64.138115" /><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="60.154385"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="67.605125"
          id="tspan30547">LASER HAIR REMOVAL</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="63.443909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="71.072144"
          id="tspan30549">BOTOX - BARBIE BOTOX</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="66.733437"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="74.539154"
          id="tspan30551">DERMAL FILLERS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="70.022957"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="78.006165"
          id="tspan30553">THREAD LIFTS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="73.312485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="81.473175"
          id="tspan30555">VAMPIRE / MEDI / E - FACIAL</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="76.602013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="84.940193"
          id="tspan30557">BB GLOW</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="79.891533"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="88.407204"
          id="tspan32805">ACNE / ACNE SCARS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="83.181061"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="91.874214"
          id="tspan32807">WARTS / SKIN TAGS / MOLES</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="86.470581"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="95.341232"
          id="tspan32809">DRY / PATCHY SKIN</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="89.760109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="98.808243"
          id="tspan32811">AGE / DARK SPOTS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="93.049637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="102.27525"
          id="tspan32813">TATTOO REMOVAL</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="96.339157"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="105.74226"
          id="tspan32815">CHEMICAL PEELS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="99.628685"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="109.20928"
+         id="tspan978">PIGMENTATION / MELASMA</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="112.67629"
          id="tspan32821" /><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="102.91821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="116.1433"
          id="tspan32823" /><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="106.20773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="119.61032"
          id="tspan30563" /><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.101949;stroke-opacity:1"
-         x="4.2531033"
-         y="109.49726"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.20041px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.107449;stroke-opacity:1"
+         x="3.7461803"
+         y="123.07733"
          id="tspan30611" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.08162px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.0806427;stroke-opacity:1"
-       x="72.280663"
-       y="64.169823"
-       id="text31354"
-       transform="scale(0.97896392,1.0214881)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.5888px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.10029;stroke-opacity:1"
+       x="64.882965"
+       y="102.36182"
+       id="text30545-5"
+       transform="scale(1.0838057,0.92267457)"><tspan
          sodipodi:role="line"
-         id="tspan31352"
-         style="stroke-width:0.0806427"
-         x="72.280663"
-         y="64.169823" /><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.0806427"
-         x="72.280663"
-         y="66.777069"
-         id="tspan31356">PRP</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.0806427"
-         x="72.280663"
-         y="69.386787"
-         id="tspan31358">GFC -  GROWTH FACTOR</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.0806427"
-         x="72.280663"
-         y="71.996498"
-         id="tspan31360">HAIR GROWTH</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.0806427"
-         x="72.280663"
-         y="74.606209"
-         id="tspan31362">HAIR FALL</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.0806427"
-         x="72.280663"
-         y="77.215919"
-         id="tspan31364">EXOSOMES</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.0806427"
-         x="72.280663"
-         y="79.825638"
-         id="tspan31366">STEMCELL</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.0806427"
-         x="72.280663"
-         y="82.435349"
-         id="tspan31368">DANDRUFF</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.05379px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.100289;stroke-opacity:1"
+         x="64.882965"
+         y="102.36182"
+         id="tspan779" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:'Candara, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.0806427;stroke-opacity:1"
-       x="72.38974"
-       y="94.689003"
-       id="text31354-9"
-       transform="scale(0.97896392,1.0214881)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82338px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109379;stroke-opacity:1"
+       x="68.224892"
+       y="63.888813"
+       id="text30545-5-6"
+       transform="scale(0.99582925,1.0041882)"><tspan
          sodipodi:role="line"
-         id="tspan46052"
-         x="72.38974"
-         y="94.689003"
-         style="stroke-width:0.0806427">NECK TIGHTENING</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="63.888813"
+         id="tspan779-9"></tspan><tspan
          sodipodi:role="line"
-         id="tspan46054"
-         x="72.38974"
-         y="97.298714"
-         style="stroke-width:0.0806427">DOUBLE CHIN</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="67.418037"
+         id="tspan853">PRP</tspan><tspan
          sodipodi:role="line"
-         id="tspan46056"
-         x="72.38974"
-         y="99.908424"
-         style="stroke-width:0.0806427">TUMMY TIGHTENING</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="70.947266"
+         id="tspan855">GFC -  GROWTH FACTOR</tspan><tspan
          sodipodi:role="line"
-         id="tspan46058"
-         x="72.38974"
-         y="102.51814"
-         style="stroke-width:0.0806427">ARM TIGHTENING</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="74.476486"
+         id="tspan857">HAIR GROWTH</tspan><tspan
          sodipodi:role="line"
-         id="tspan46060"
-         x="72.38974"
-         y="105.12785"
-         style="stroke-width:0.0806427">LIPO DISSOLVE</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="78.005714"
+         id="tspan859">HAIR FALL</tspan><tspan
          sodipodi:role="line"
-         id="tspan46062"
-         x="72.38974"
-         y="107.73756"
-         style="stroke-width:0.0806427">EMS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="81.534935"
+         id="tspan861">EXOSOMES</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="85.064163"
+         id="tspan863">STEMCELL</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="88.593391"
+         id="tspan865">DANDRUFF</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="92.122612"
+         id="tspan1000">NECK TIGHTENING</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="95.65184"
+         id="tspan1002">DOUBLE CHIN</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="99.181061"
+         id="tspan1004">TUMMY TIGHTENING</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="102.71029"
+         id="tspan1006">ARM TIGHTENING</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="106.23951"
+         id="tspan1008">LIPO DISSOLVE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.2399px;font-family:Candara;-inkscape-font-specification:Candara;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.109378;stroke-opacity:1"
+         x="68.224892"
+         y="109.76874"
+         id="tspan1010">EMS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.65289px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.102774;stroke-opacity:1"
-       x="32.93026"
-       y="67.350182"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.93051px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.11353;stroke-opacity:1"
+       x="31.430613"
+       y="63.62328"
        id="text32625"
-       transform="scale(1.0347628,0.96640506)"><tspan
+       transform="scale(1.0482477,0.953973)"><tspan
          sodipodi:role="line"
-         style="stroke-width:0.102774"
-         x="32.93026"
-         y="67.350182"
+         style="stroke-width:0.11353"
+         x="31.430613"
+         y="63.62328"
          id="tspan32637" /><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="70.66629"
-         id="tspan32639">PIGMENTATION / MELASMA</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="67.286415"
+         id="tspan32639" /><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="73.982407"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="70.949554"
          id="tspan32643">SKIN WHITENING</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="77.298515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="74.612694"
          id="tspan32645">CARBON LASER PEEL</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="80.614632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="78.275833"
          id="tspan32856">MICRONEEDLING</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="83.93074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="81.938965"
          id="tspan32858">KELOID</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="87.246857"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="85.602104"
          id="tspan32860">LARGE PORES</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="90.562965"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="89.265244"
          id="tspan32862">PRP SKIN</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="93.879082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="92.928383"
          id="tspan32864">HIFU SKIN TIGHTENING</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="97.19519"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="96.591515"
          id="tspan32866">MESOTHERAPY</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="100.51131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="100.25465"
          id="tspan32868">UNDER EYE BAGS</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="103.82742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="103.91779"
          id="tspan32870">VAGINAL REJUVENATION</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="107.14353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="107.58093"
          id="tspan32872">URINARY-INCONTINENCE (SUI)</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="110.45964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="111.24406"
          id="tspan32874">IV VITAMIN BOOSTER</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="113.77576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="114.9072"
          id="tspan32876">IV GLUTATHIONE</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.08777px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.102774"
-         x="32.93026"
-         y="117.09187"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.30629px;font-family:Candara;-inkscape-font-specification:Candara;stroke-width:0.11353"
+         x="31.430613"
+         y="118.57034"
          id="tspan32671" /></text>
     <text
        xml:space="preserve"
@@ -598,26 +596,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.13165px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.161762;stroke-opacity:1"
-       x="69.807053"
+       x="66.901581"
        y="65.119446"
        id="text32885"
        transform="scale(1.0127477,0.98741276)"><tspan
          sodipodi:role="line"
          id="tspan32883"
          style="font-size:3.13165px;stroke-width:0.161761"
-         x="69.807053"
-         y="65.119446">HAIR</tspan></text>
+         x="66.901581"
+         y="65.119446">HAIR &amp; OBESITY</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.13165px;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;text-anchor:start;fill:#373936;fill-opacity:1;stroke:#373936;stroke-width:0.161762;stroke-opacity:1"
-       x="69.9095"
-       y="92.921494"
+       x="69.358727"
+       y="92.385582"
        id="text32889"
        transform="scale(1.0127477,0.98741276)"><tspan
          sodipodi:role="line"
          id="tspan32887"
          style="font-size:3.13165px;stroke-width:0.161761"
-         x="69.9095"
-         y="92.921494">OBESITY</tspan></text>
+         x="69.358727"
+         y="92.385582" /></text>
   </g>
 </svg>
