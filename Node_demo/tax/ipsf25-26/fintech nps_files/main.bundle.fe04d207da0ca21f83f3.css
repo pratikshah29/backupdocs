@@ -1,0 +1,1130 @@
+.open-in-mobile {
+  text-align: center;
+  padding: 100px 60px 10px 60px;
+}
+.open-in-mobile button {
+  width: 100%;
+}
+.open-in-mobile .store-link {
+  margin-top: 200px;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50px;
+}
+.open-in-mobile .store-link.ios {
+  background-image: url(styles/images/button_ios_sm.03474bd2a460ca9330e6.png);
+}
+.open-in-mobile .store-link.android {
+  background-image: url(styles/images/button_google_sm.017bff4eaa859204b6cf.png);
+}
+.nui-signin.signin-hrd-body {
+  display: flex;
+  flex-direction: column;
+  min-width: auto !important;
+}
+.nui-signin.signin-hrd-body.lang-hidden #langMenuItem {
+  display: none;
+}
+.nui-signin.signin-hrd-body .react-component-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.nui-signin.signin-hrd-body .full-width,
+.nui-signin.signin-hrd-body .full-width .sapcnqr-button__inner {
+  width: 100%;
+}
+.nui-signin.signin-hrd-body .hr-sect {
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.35);
+  margin: 18px 0px;
+}
+.nui-signin.signin-hrd-body .hr-sect:before,
+.nui-signin.signin-hrd-body .hr-sect:after {
+  content: "";
+  flex-grow: 1;
+  background: rgba(0, 0, 0, 0.35);
+  height: 1px;
+  font-size: 0px;
+  line-height: 0px;
+  margin: 0px 8px;
+}
+.nui-signin.signin-hrd-body .signin-with {
+  font-weight: bolder;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container {
+  position: relative;
+  flex: 1 0 100%;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .logo-container {
+  display: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel {
+  z-index: 2;
+  width: 450px;
+  border: 0;
+  border-radius: 0;
+  margin: 50px auto;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel header {
+  display: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel a {
+  cursor: pointer;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .to-old-experience {
+  margin: 0 -16px;
+  background-color: var(--sapNeutralBackground);
+  border-bottom: 1px solid var(--cnqrColors_GreyLighter);
+  padding: 8px 6px 6px 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .to-old-experience .icon-arrow-3-w {
+  margin-top: 2px;
+  padding-right: 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1 {
+  padding: 24px 0 32px 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h1 {
+  margin-left: 24px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h2 {
+  padding: 24px 0 24px 0;
+  margin-left: 24px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h3 {
+  padding: 20px 0 0 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .h5 {
+  color: #1E69A6;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .info-paragraph {
+  padding-bottom: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .info-paragraph-last {
+  padding-bottom: 32px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .info-paragraph-mfa-reset {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .back-button {
+  position: absolute;
+  top: 22px;
+  left: 0px;
+  font-size: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .back-button:hover {
+  text-decoration: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .button-bar {
+  margin-bottom: 32px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .field-validation-error {
+  padding-left: 26px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content {
+  position: relative;
+  padding: 0 16px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .sapcnqr-form-group,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .form-group {
+  margin-bottom: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"],
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"] {
+  width: 100%;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"].visibleForIE,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"].visibleForIE {
+  height: 0;
+  width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  visibility: hidden;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content _:-ms-lang(x).visibleForIE,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"].visibleForIE,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"].visibleForIE {
+  visibility: visible;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .sapcnqr-button-toolbar__start {
+  width: 100%;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .forgot-username-link {
+  margin-left: 20px;
+  margin-bottom: 8px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .signin-support-link {
+  margin-left: 42px;
+  margin-bottom: 24px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .remember-checkbox {
+  margin-top: 24px;
+  margin-bottom: 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .remember-checkbox .sapcnqr-switch {
+  float: left;
+  margin-right: 10px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .remember-checkbox .remember-label {
+  padding-top: 9px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block {
+  margin-top: 24px;
+  margin-bottom: 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block .sapcnqr-switch {
+  float: left;
+  margin-right: 10px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block .remember-label {
+  padding-top: 9px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block .scopes-label {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #1e69a6;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .discoveries .choices-container {
+  padding-top: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .discoveries .choices-container a,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .discoveries .choices-container button {
+  width: 100%;
+  margin-top: 16px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .sapcnqr-layout-panel__footer {
+  border-radius: 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer {
+  border-radius: 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy {
+  display: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .test-drive {
+  text-align: center;
+  padding: 24px;
+}
+.nui-signin.signin-hrd-body .caption-container {
+  position: relative;
+  width: inherit;
+  right: 0;
+  margin: 0;
+}
+.nui-signin.signin-hrd-body .caption-container .caption {
+  width: auto;
+  color: var(--sapContent_ForegroundColor);
+}
+@media only screen and (max-width: 700px), (max-height: 450px) {
+  .nui-signin.signin-hrd-body {
+    background-color: var(--sapNeutralBackground);
+    min-width: auto !important;
+  }
+  .nui-signin.signin-hrd-body .sapcnqr-app-header,
+  .nui-signin.signin-hrd-body #app-header-container {
+    display: none;
+  }
+  .nui-signin.signin-hrd-body .sapcnqr-app-footer,
+  .nui-signin.signin-hrd-body #app-footer-container {
+    display: none;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container {
+    margin-top: 50%;
+    padding: 20px;
+    margin-left: calc(50% - 200px);
+    width: 400px;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__body {
+    padding-top: 0px;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__header {
+    margin: 0;
+    border-bottom: 0px;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__footer {
+    justify-content: center;
+    align-content: center;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .full-height {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .logo-container {
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    margin: 0 auto;
+    /* Centers the container horizontally within its parent */
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .logo-container svg {
+    width: 60%;
+    margin: 0 auto;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container h1 {
+    font-size: 20px;
+    color: #0078C8;
+    text-align: center;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container section {
+    width: 100%;
+    padding: 8px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container section:after {
+    background-position-x: calc(50% - 70px);
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    width: 100% !important;
+    position: relative;
+    flex: 1 0 600px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .cnqr-panel-body,
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .sapcnqr-panel__body {
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1 {
+    padding-top: 0px;
+    margin-top: 8px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h1 {
+    margin-left: 0px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .back-button {
+    left: 8px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content h1 {
+    font-size: 20px;
+    color: var(--sapNeutralTextColor);
+    text-align: center;
+    padding-top: 0;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"],
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"],
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content button {
+    border-radius: 0;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer {
+    bottom: 0;
+    padding-top: 40px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy {
+    display: none;
+    text-align: center;
+    padding: 16px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy a {
+    color: var(--sapNeutralTextColor) !important;
+  }
+}
+@media only screen and (max-width: 700px) and all and (-ms-high-contrast: none), (max-height: 450px) and all and (-ms-high-contrast: none), only screen and (max-width: 700px) and (-ms-high-contrast: active), (max-height: 450px) and (-ms-high-contrast: active) {
+  .nui-signin.signin-hrd-body .ie-flex {
+    flex: 1 0 auto;
+    min-height: 550px;
+  }
+}
+.nui-signin.signin-hrd-body.signin-mobile-app {
+  background-color: var(--sapNeutralBackground);
+  min-width: auto !important;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .sapcnqr-app-header,
+.nui-signin.signin-hrd-body.signin-mobile-app #app-header-container {
+  display: none;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .sapcnqr-app-footer,
+.nui-signin.signin-hrd-body.signin-mobile-app #app-footer-container {
+  display: none;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .nui-signin.signin-hrd-body.signin-mobile-app .ie-flex {
+    flex: 1 0 auto;
+    min-height: 550px;
+  }
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container {
+  margin-top: 50%;
+  padding: 20px;
+  margin-left: calc(50% - 200px);
+  width: 400px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__body {
+  padding-top: 0px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__header {
+  margin: 0;
+  border-bottom: 0px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__footer {
+  justify-content: center;
+  align-content: center;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .full-height {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .logo-container {
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  margin: 0 auto;
+  /* Centers the container horizontally within its parent */
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .logo-container svg {
+  width: 60%;
+  margin: 0 auto;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container h1 {
+  font-size: 20px;
+  color: #0078C8;
+  text-align: center;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container section {
+  width: 100%;
+  padding: 8px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container section:after {
+  background-position-x: calc(50% - 70px);
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  width: 100% !important;
+  position: relative;
+  flex: 1 0 600px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .cnqr-panel-body,
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .sapcnqr-panel__body {
+  flex: 1;
+  flex-direction: column;
+  display: flex;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel h1 {
+  padding-top: 0px;
+  margin-top: 8px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h1 {
+  margin-left: 0px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .back-button {
+  left: 8px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content h1 {
+  font-size: 20px;
+  color: var(--sapNeutralTextColor);
+  text-align: center;
+  padding-top: 0;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"],
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"],
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content button {
+  border-radius: 0;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer {
+  bottom: 0;
+  padding-top: 40px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy {
+  display: none;
+  text-align: center;
+  padding: 16px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy a {
+  color: var(--sapNeutralTextColor) !important;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics {
+  border: 0;
+  border-radius: 0!important;
+  padding: 0!important;
+  background-image: none;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics div {
+  width: 30px;
+  height: 34px;
+  background-size: 102px 100px;
+  background-image: url(data:image/png;base64,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);
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-touchid-disabled {
+  background-position: -8px -59px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-touchid {
+  background-position: -57px -58px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-faceid-disabled {
+  background-position: -10px -10px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-faceid {
+  background-position: -60px -9px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .test-drive {
+  display: none;
+}
+@media only screen and (min-width: 768px) {
+  .nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .logo-container svg {
+    width: 350px;
+  }
+  .nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content {
+    padding: 5% 20%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .nui-signin.signin-hrd-body .cnqr-app-content.container {
+    flex: 1 0 100%;
+    min-height: 550px;
+  }
+}
+body.signin .match-error-container {
+  font-size: 12px;
+  height: 15px;
+  color: red;
+}
+body.signin .match-error-container i {
+  margin-right: 2.5px;
+  position: relative;
+  top: 3px;
+}
+body.signin .password-requirements {
+  border: 1px solid #999CA0;
+  background-color: rgba(240, 240, 240, 0.3);
+  border-radius: 4px;
+  padding: 12px 24px;
+}
+body.signin .password-requirements li {
+  margin-bottom: 2px;
+}
+body.signin .password-requirements ul.validation {
+  list-style: none;
+  padding-left: 20px;
+}
+body.signin .password-requirements ul.validation li.valid {
+  color: green;
+}
+body.signin .password-requirements ul.validation li.invalid {
+  color: red;
+}
+body.signin .password-requirements ul.validation table {
+  border: none;
+  border-collapse: collapse;
+}
+body.signin .password-requirements ul.validation td.icon-cell {
+  width: 20px;
+  position: relative;
+  vertical-align: top;
+}
+body.signin .password-requirements ul.validation td {
+  padding-bottom: 4px;
+}
+body.signin .password-requirements > div {
+  margin-bottom: 10px;
+}
+body.signin .password-requirements > div:last-of-type {
+  margin-bottom: 0px;
+}
+body.signin .password-requirements p {
+  margin-bottom: 4px;
+}
+body.nui-signin.signin-hrd-body .password-requirements {
+  border: 0;
+  background-color: transparent;
+  padding: 0px;
+}
+body.nui-signin.signin-hrd-body .password-requirements ul {
+  margin-inline-start: -10px;
+}
+body.nui-signin.signin-hrd-body .match-error-container {
+  height: auto;
+}
+
+.open-in-mobile {
+  text-align: center;
+  padding: 100px 60px 10px 60px;
+}
+.open-in-mobile button {
+  width: 100%;
+}
+.open-in-mobile .store-link {
+  margin-top: 200px;
+  display: block;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50px;
+}
+.open-in-mobile .store-link.ios {
+  background-image: url(styles/images/button_ios_sm.03474bd2a460ca9330e6.png);
+}
+.open-in-mobile .store-link.android {
+  background-image: url(styles/images/button_google_sm.017bff4eaa859204b6cf.png);
+}
+.nui-signin.signin-hrd-body {
+  display: flex;
+  flex-direction: column;
+  min-width: auto !important;
+}
+.nui-signin.signin-hrd-body.lang-hidden #langMenuItem {
+  display: none;
+}
+.nui-signin.signin-hrd-body .react-component-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.nui-signin.signin-hrd-body .full-width,
+.nui-signin.signin-hrd-body .full-width .sapcnqr-button__inner {
+  width: 100%;
+}
+.nui-signin.signin-hrd-body .hr-sect {
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.35);
+  margin: 18px 0px;
+}
+.nui-signin.signin-hrd-body .hr-sect:before,
+.nui-signin.signin-hrd-body .hr-sect:after {
+  content: "";
+  flex-grow: 1;
+  background: rgba(0, 0, 0, 0.35);
+  height: 1px;
+  font-size: 0px;
+  line-height: 0px;
+  margin: 0px 8px;
+}
+.nui-signin.signin-hrd-body .signin-with {
+  font-weight: bolder;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container {
+  position: relative;
+  flex: 1 0 100%;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .logo-container {
+  display: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel {
+  z-index: 2;
+  width: 450px;
+  border: 0;
+  border-radius: 0;
+  margin: 50px auto;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel header {
+  display: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel a {
+  cursor: pointer;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .to-old-experience {
+  margin: 0 -16px;
+  background-color: var(--sapNeutralBackground);
+  border-bottom: 1px solid var(--cnqrColors_GreyLighter);
+  padding: 8px 6px 6px 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .to-old-experience .icon-arrow-3-w {
+  margin-top: 2px;
+  padding-right: 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1 {
+  padding: 24px 0 32px 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h1 {
+  margin-left: 24px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h2 {
+  padding: 24px 0 24px 0;
+  margin-left: 24px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h3 {
+  padding: 20px 0 0 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .h5 {
+  color: #1E69A6;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .info-paragraph {
+  padding-bottom: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .info-paragraph-last {
+  padding-bottom: 32px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .info-paragraph-mfa-reset {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .back-button {
+  position: absolute;
+  top: 22px;
+  left: 0px;
+  font-size: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .back-button:hover {
+  text-decoration: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .button-bar {
+  margin-bottom: 32px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .field-validation-error {
+  padding-left: 26px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content {
+  position: relative;
+  padding: 0 16px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .sapcnqr-form-group,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .form-group {
+  margin-bottom: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"],
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"] {
+  width: 100%;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"].visibleForIE,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"].visibleForIE {
+  height: 0;
+  width: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  visibility: hidden;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content _:-ms-lang(x).visibleForIE,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"].visibleForIE,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"].visibleForIE {
+  visibility: visible;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .sapcnqr-button-toolbar__start {
+  width: 100%;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .forgot-username-link {
+  margin-left: 20px;
+  margin-bottom: 8px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .signin-support-link {
+  margin-left: 42px;
+  margin-bottom: 24px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .remember-checkbox {
+  margin-top: 24px;
+  margin-bottom: 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .remember-checkbox .sapcnqr-switch {
+  float: left;
+  margin-right: 10px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .remember-checkbox .remember-label {
+  padding-top: 9px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block {
+  margin-top: 24px;
+  margin-bottom: 6px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block .sapcnqr-switch {
+  float: left;
+  margin-right: 10px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block .remember-label {
+  padding-top: 9px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .scopes-block .scopes-label {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #1e69a6;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .discoveries .choices-container {
+  padding-top: 20px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .discoveries .choices-container a,
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content .discoveries .choices-container button {
+  width: 100%;
+  margin-top: 16px;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .sapcnqr-layout-panel__footer {
+  border-radius: 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer {
+  border-radius: 0;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy {
+  display: none;
+}
+.nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .test-drive {
+  text-align: center;
+  padding: 24px;
+}
+.nui-signin.signin-hrd-body .caption-container {
+  position: relative;
+  width: inherit;
+  right: 0;
+  margin: 0;
+}
+.nui-signin.signin-hrd-body .caption-container .caption {
+  width: auto;
+  color: var(--sapContent_ForegroundColor);
+}
+@media only screen and (max-width: 700px), (max-height: 450px) {
+  .nui-signin.signin-hrd-body {
+    background-color: var(--sapNeutralBackground);
+    min-width: auto !important;
+  }
+  .nui-signin.signin-hrd-body .sapcnqr-app-header,
+  .nui-signin.signin-hrd-body #app-header-container {
+    display: none;
+  }
+  .nui-signin.signin-hrd-body .sapcnqr-app-footer,
+  .nui-signin.signin-hrd-body #app-footer-container {
+    display: none;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container {
+    margin-top: 50%;
+    padding: 20px;
+    margin-left: calc(50% - 200px);
+    width: 400px;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__body {
+    padding-top: 0px;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__header {
+    margin: 0;
+    border-bottom: 0px;
+  }
+  .nui-signin.signin-hrd-body .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__footer {
+    justify-content: center;
+    align-content: center;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .full-height {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .logo-container {
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    margin: 0 auto;
+    /* Centers the container horizontally within its parent */
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .logo-container svg {
+    width: 60%;
+    margin: 0 auto;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container h1 {
+    font-size: 20px;
+    color: #0078C8;
+    text-align: center;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container section {
+    width: 100%;
+    padding: 8px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container section:after {
+    background-position-x: calc(50% - 70px);
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    width: 100% !important;
+    position: relative;
+    flex: 1 0 600px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .cnqr-panel-body,
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .sapcnqr-panel__body {
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1 {
+    padding-top: 0px;
+    margin-top: 8px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h1 {
+    margin-left: 0px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .back-button {
+    left: 8px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content h1 {
+    font-size: 20px;
+    color: var(--sapNeutralTextColor);
+    text-align: center;
+    padding-top: 0;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"],
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"],
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .form-content button {
+    border-radius: 0;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer {
+    bottom: 0;
+    padding-top: 40px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy {
+    display: none;
+    text-align: center;
+    padding: 16px;
+  }
+  .nui-signin.signin-hrd-body .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy a {
+    color: var(--sapNeutralTextColor) !important;
+  }
+}
+@media only screen and (max-width: 700px) and all and (-ms-high-contrast: none), (max-height: 450px) and all and (-ms-high-contrast: none), only screen and (max-width: 700px) and (-ms-high-contrast: active), (max-height: 450px) and (-ms-high-contrast: active) {
+  .nui-signin.signin-hrd-body .ie-flex {
+    flex: 1 0 auto;
+    min-height: 550px;
+  }
+}
+.nui-signin.signin-hrd-body.signin-mobile-app {
+  background-color: var(--sapNeutralBackground);
+  min-width: auto !important;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .sapcnqr-app-header,
+.nui-signin.signin-hrd-body.signin-mobile-app #app-header-container {
+  display: none;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .sapcnqr-app-footer,
+.nui-signin.signin-hrd-body.signin-mobile-app #app-footer-container {
+  display: none;
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .nui-signin.signin-hrd-body.signin-mobile-app .ie-flex {
+    flex: 1 0 auto;
+    min-height: 550px;
+  }
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container {
+  margin-top: 50%;
+  padding: 20px;
+  margin-left: calc(50% - 200px);
+  width: 400px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__body {
+  padding-top: 0px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__header {
+  margin: 0;
+  border-bottom: 0px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .mobleapp-vaildation-error-modal .sapcnqr-modal__container .sapcnqr-modal__footer {
+  justify-content: center;
+  align-content: center;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .full-height {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .logo-container {
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  margin: 0 auto;
+  /* Centers the container horizontally within its parent */
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .logo-container svg {
+  width: 60%;
+  margin: 0 auto;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container h1 {
+  font-size: 20px;
+  color: #0078C8;
+  text-align: center;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container section {
+  width: 100%;
+  padding: 8px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container section:after {
+  background-position-x: calc(50% - 70px);
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  width: 100% !important;
+  position: relative;
+  flex: 1 0 600px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .cnqr-panel-body,
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .sapcnqr-panel__body {
+  flex: 1;
+  flex-direction: column;
+  display: flex;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel h1 {
+  padding-top: 0px;
+  margin-top: 8px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel h1.back-button-h1 {
+  margin-left: 0px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .back-button {
+  left: 8px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content h1 {
+  font-size: 20px;
+  color: var(--sapNeutralTextColor);
+  text-align: center;
+  padding-top: 0;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="text"],
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content input[type="password"],
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content button {
+  border-radius: 0;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer {
+  bottom: 0;
+  padding-top: 40px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy {
+  display: none;
+  text-align: center;
+  padding: 16px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .signin-modal-footer .privacy-policy a {
+  color: var(--sapNeutralTextColor) !important;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics {
+  border: 0;
+  border-radius: 0!important;
+  padding: 0!important;
+  background-image: none;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics div {
+  width: 30px;
+  height: 34px;
+  background-size: 102px 100px;
+  background-image: url(data:image/png;base64,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);
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-touchid-disabled {
+  background-position: -8px -59px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-touchid {
+  background-position: -57px -58px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-faceid-disabled {
+  background-position: -10px -10px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .bg-biometrics .bg-faceid {
+  background-position: -60px -9px;
+}
+.nui-signin.signin-hrd-body.signin-mobile-app .test-drive {
+  display: none;
+}
+@media only screen and (min-width: 768px) {
+  .nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .logo-container svg {
+    width: 350px;
+  }
+  .nui-signin.signin-hrd-body.signin-mobile-app .cnqr-app-content.container .signin-wrapper-panel .form-content {
+    padding: 5% 20%;
+  }
+}
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .nui-signin.signin-hrd-body .cnqr-app-content.container {
+    flex: 1 0 100%;
+    min-height: 550px;
+  }
+}
+
+.home-body .cnqr-app-content {
+  padding: 0;
+}
+.home-body .degraded-home {
+  padding: 40px 32px 16px 32px;
+}
+.home-body .degraded-home .logo-container {
+  display: none;
+}
+.home-body .degraded-home .myapps h2 {
+  margin-bottom: 12px;
+}
+.home-body .degraded-home .myapps .home-card .sapcnqr-card {
+  height: 150px;
+}
+.home-body .degraded-home .myapps .home-card .sapcnqr-card .sapcnqr-card__header {
+  padding: 2px 1px 0 4px;
+}
+.home-body .degraded-home .myapps .home-card .sapcnqr-card h5 {
+  padding-top: 34px;
+  text-align: center;
+}
+.home-body .degraded-home h2 {
+  text-transform: uppercase;
+}
+.home-body .sapcnqr-modal.home-plz-wait {
+  padding-top: 200px;
+}
+@media screen and (max-width: 1199px) {
+  .home-body .home-card .sapcnqr-card {
+    width: 284px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .home-body .home-card .sapcnqr-card {
+    width: 260px;
+  }
+}
+@media screen and (max-width: 990px) {
+  .home-body .home-card .sapcnqr-card {
+    width: 336px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .home-body .home-card .sapcnqr-card {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    height: 80px!important;
+  }
+  .home-body .home-card .sapcnqr-card h5 {
+    padding-top: 0!important;
+  }
+}
+
+
+/*# sourceMappingURL=main.bundle.fe04d207da0ca21f83f3.css.map*/
