@@ -1,0 +1,98 @@
+===== PAGE 1 =====
+Part A - General Information
+Permanent Account Number (PAN) Aadhaar Number Name of Assessee
+AWBPS3884R XXXX XXXX 6997 ASHA MAHENDRAKUMAR SHAH
+Date of Birth Mobile Number E-mail Address
+07/01/1949 9930203893 pratikshah83@gmail.com
+Address
+G28,2ND FLOOR, SARVODAYA NAGAR,MUMBAI,MUMBAI,MUMBAI,400004,MAHARASHTRA
+------------------------------------------------------------------------------------- Annual Information Statement (Part B) --------------------------------------------------------------------------------------
+(All amount values are in INR)
+Part B1-Information relating to tax deducted or collected at source
+Rent received
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+1 TDS-194IB(R) Rent received (Section 194IB) PRATIK MAHENDRAKUMAR SHAH (ASKPS2937G) 1 23,94,000
+SR. NO. ACKNOWLEDGEMENT NUMBER PROPERTY ADDRESS DATE OF PAYMENT/CREDIT AMOUNT RECEIVED/DEBITED TDS DEPOSITED STATUS
+1 RAI1906962 g28, sarvodaya nagar,Mumbai,1st 
+panjarapole road,MUMBAI,400004
+31/03/2026 23,94,000 47,880 Active
+Interest from deposit
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+2 TDS-194A Interest other than "Interest on Securities" received 
+(Section 194A)
+BANK OF INDIA MUMBAI SOUTH ZONAL OFFICE (MUMB12126C) 7 3,752
+SR. NO. QUARTER DATE OF PAYMENT/CREDIT AMOUNT PAID/CREDITED TDS DEDUCTED TDS DEPOSITED STATUS
+1 Q4(Jan-Mar) 29/03/2026 73 0 0 Active
+2 Q4(Jan-Mar) 29/03/2026 55 0 0 Active
+3 Q4(Jan-Mar) 29/03/2026 17 0 0 Active
+4 Q4(Jan-Mar) 29/03/2026 4 0 0 Active
+5 Q4(Jan-Mar) 26/03/2026 360 0 0 Active
+6 Q4(Jan-Mar) 23/03/2026 3,228 0 0 Active
+7 Q3(Oct-Dec) 16/12/2025 15 0 0 Active
+Foreign travel
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+3 TCS-206CO Purchase of overseas tour package (Section 
+206C(1G(b)))
+FREEDOM TOURISM (AHMF00922F) 1 4,00,050
+SR. NO. STATUS DATE OF RECEIPT/ DEBIT AMOUNT RECEIVED/DEBITED TAX COLLECTED TCS DEPOSITED
+1 Active 20/02/2026 4,00,050 20,002 20,002
+Note - If there is variation between the TDS/TCS information as displayed in Form26AS on TRACES portal, and the TDS/TCS information as displayed in AIS on Compliance Portal, the taxpayer may rely on the 
+information displayed on TRACES portal for the purpose of filing of tax return and for other tax compliance purposes.
+Part B2-Information relating to specified financial transaction (SFT)
+Dividend
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+1 SFT-015 Dividend income (SFT-015) IRB INFRASTRUCTURE DEVELOPERS LIMITED (AABCD1071G.AZ193) 1 21
+SR. NO. REPORTED ON DIVIDEND AMOUNT STATUS
+1 28/05/2026 21 Active
+Interest from savings bank
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+2 SFT-016(SB) Interest income (SFT-016) – Savings BANK OF INDIA (AAACB0472C.AB480) 1 2,654
+SR. NO. REPORTED ON ACCOUNT NUMBER ACCOUNT TYPE INTEREST AMOUNT STATUS
+1 31/05/2026 001210110008347 Saving 2,654 Active
+Interest from deposit
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+3 SFT-016(TD) Interest income (SFT-016) – Term Deposit BANK OF INDIA (AAACB0472C.AB480) 6 3,752
+SR. NO. REPORTED ON ACCOUNT NUMBER ACCOUNT TYPE INTEREST AMOUNT STATUS
+1 31/05/2026 001258110047387 Time Deposit 3,228 Active
+2 31/05/2026 001258110049210 Time Deposit 55 Active
+3 31/05/2026 001258110047443 Time Deposit 360 Active
+4 31/05/2026 001258110049875 Time Deposit 32 Active
+5 30/05/2026 001258110050873 Time Deposit 4 Active
+6 30/05/2026 001258110051034 Time Deposit 73 Active
+Purchase of securities and units of mutual funds
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+4 SFT-18(Pur) Purchase of mutual funds (SFT - 018) KFin Technologies Pvt. Ltd - AXIS MUTUAL FUND(128) (AAGCK6303B) 1 1,48,993
+SR. NO. QUARTER CLIENT ID AMC NAME (CODE) HOLDER FLAG TOTAL PURCHASE AMOUNT TOTAL SALES VALUE STATUS
+1 Q4(Jan-Mar) 910111441026 AXIS MUTUAL FUND(128) First 1,48,993 0 Active
+Part B7-Any other information in relation to sub-rule (2) of rule 114-I
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+No Transactions Present
+Annual Information Statement (AIS) Financial Year 2025-26
+Download ID : AWBPS3884R202606290631 IP Address : 
+Generation Date : 29/06/2026, 06:31:49 Page 1 of 2
+===== PAGE 2 =====
+Part B3-Information relating to payment of taxes
+SR. NO. FINANCIAL 
+YEAR
+MAJOR HEAD MINOR HEAD TAX (A) SURCHARGE (B) EDUCATION 
+CESS (C)
+OTHERS (D) TOTAL (A+B+C
++D)
+BSR CODE DATE OF 
+DEPOSIT
+CHALLAN 
+SERIAL 
+NUMBER
+CHALLAN IDENTIFICATION NUMBER
+No Transactions Present
+Note - For financial year 2022-23 and earlier, details of tax payments are available in both Form 26AS on the TRACES portal and Annual Information Statement (AIS) on the Compliance Portal. If there is any variation 
+between the tax payment information shown in Form 26AS and AIS, taxpayers are advised to rely on Form 26AS on the TRACES portal for filing their income tax returns and for other tax compliance purposes. 
+However, from Financial Year 2023-24, details of Tax Payments are available only in AIS.
+Part B4-Information relating to demand and refund
+Refund
+SR. NO. FINANCIAL YEAR MODE NATURE OF REFUND REFUND AMOUNT DATE OF PAYMENT
+1 2024-25 ECS ECS (direct credit to bank account) 37,620 09/12/2025
+PAN Name Financial Year
+AWBPS3884R ASHA MAHENDRAKUMAR SHAH 2025-26
+Download ID : AWBPS3884R202606290631 IP Address : 
+Generation Date : 29/06/2026, 06:31:49 Page 2 of 2

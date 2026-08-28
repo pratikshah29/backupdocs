@@ -1,0 +1,76 @@
+===== PAGE 1 =====
+Part A - General Information
+Permanent Account Number (PAN) Aadhaar Number Name of Assessee
+AFYPN9557J XXXX XXXX 4057 JIGISHA PRATIK SHAH
+Date of Birth Mobile Number E-mail Address
+19/09/1983 9930203893 pratikshah83@gmail.com
+Address
+614 INDRAPRASTHA 1D,RAHEJA TOWNSHIP ,JITENDRA RD, OPP ASHOKA HOSPITAL,MALAD EAST S.O,MUMBAI,MUMBAI,400097,MAHARASHTRA
+------------------------------------------------------------------------------------- Annual Information Statement (Part B) --------------------------------------------------------------------------------------
+(All amount values are in INR)
+Part B1-Information relating to tax deducted or collected at source
+Business receipts
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+1 TDS-194J Receipt of fees for professional or technical services 
+(Section 194J)
+SHREE NAMAN HEAL THCARE PRIVATE LIMITED (MUMS76444E) 2 61,461
+SR. NO. QUARTER DATE OF PAYMENT/CREDIT AMOUNT PAID/CREDITED TDS DEDUCTED TDS DEPOSITED STATUS
+1 Q2(Jul-Sep) 30/08/2025 25,466 2,547 2,547 Active
+2 Q1(Apr-Jun) 29/06/2025 35,995 3,599 3,599 Active
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+2 TDS-194J Receipt of fees for professional or technical services 
+(Section 194J)
+AARUSH HEAL TH CARE CENTER (MUMA39983G) 1 30,000
+SR. NO. QUARTER DATE OF PAYMENT/CREDIT AMOUNT PAID/CREDITED TDS DEDUCTED TDS DEPOSITED STATUS
+1 Q4(Jan-Mar) 01/02/2026 30,000 3,000 3,000 Active
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+3 TDS-194J Receipt of fees for professional or technical services 
+(Section 194J)
+KIDS CLINIC INDIA LIMITED (BLRK07015B) 1 19,769
+SR. NO. QUARTER DATE OF PAYMENT/CREDIT AMOUNT PAID/CREDITED TDS DEDUCTED TDS DEPOSITED STATUS
+1 Q3(Oct-Dec) 21/12/2025 19,769 1,977 1,977 Active
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+4 TDS-194J Receipt of fees for professional or technical services 
+(Section 194J)
+SBS HEAL THCARE SERVICES PRIVATE LIMITED (MUMS89791C) 1 8,250
+SR. NO. QUARTER DATE OF PAYMENT/CREDIT AMOUNT PAID/CREDITED TDS DEDUCTED TDS DEPOSITED STATUS
+1 Q4(Jan-Mar) 31/03/2026 8,250 825 825 Active
+Note - If there is variation between the TDS/TCS information as displayed in Form26AS on TRACES portal, and the TDS/TCS information as displayed in AIS on Compliance Portal, the taxpayer may rely on the 
+information displayed on TRACES portal for the purpose of filing of tax return and for other tax compliance purposes.
+Part B2-Information relating to specified financial transaction (SFT)
+Interest from savings bank
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+1 SFT-016(SB) Interest income (SFT-016) – Savings HDFC BANK LIMITED (AAACH2702H.AB772) 1 3,514
+SR. NO. REPORTED ON ACCOUNT NUMBER ACCOUNT TYPE INTEREST AMOUNT STATUS
+1 06/05/2026 50100474241980 Saving 3,514 Active
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+2 SFT-016(SB) Interest income (SFT-016) – Savings BANK OF MAHARASHTRA (AACCB0774B.AB220) 1 444
+SR. NO. REPORTED ON ACCOUNT NUMBER ACCOUNT TYPE INTEREST AMOUNT STATUS
+1 26/05/2026 0000020032965269 Saving 444 Active
+Part B7-Any other information in relation to sub-rule (2) of rule 114-I
+SR. NO. INFORMATION CODE INFORMATION DESCRIPTION INFORMATION SOURCE COUNT AMOUNT
+No Transactions Present
+Part B3-Information relating to payment of taxes
+SR. NO. FINANCIAL 
+YEAR
+MAJOR HEAD MINOR HEAD TAX (A) SURCHARGE (B) EDUCATION 
+CESS (C)
+OTHERS (D) TOTAL (A+B+C
++D)
+BSR CODE DATE OF 
+DEPOSIT
+CHALLAN 
+SERIAL 
+NUMBER
+CHALLAN IDENTIFICATION NUMBER
+No Transactions Present
+Note - For financial year 2022-23 and earlier, details of tax payments are available in both Form 26AS on the TRACES portal and Annual Information Statement (AIS) on the Compliance Portal. If there is any variation 
+between the tax payment information shown in Form 26AS and AIS, taxpayers are advised to rely on Form 26AS on the TRACES portal for filing their income tax returns and for other tax compliance purposes. 
+However, from Financial Year 2023-24, details of Tax Payments are available only in AIS.
+Part B4-Information relating to demand and refund
+Refund
+SR. NO. FINANCIAL YEAR MODE NATURE OF REFUND REFUND AMOUNT DATE OF PAYMENT
+1 2024-25 ECS ECS (direct credit to bank account) 7,690 22/09/2025
+Annual Information Statement (AIS) Financial Year 2025-26
+Download ID : AFYPN9557J202606240334 IP Address : 
+Generation Date : 24/06/2026, 03:34:47 Page 1 of 1

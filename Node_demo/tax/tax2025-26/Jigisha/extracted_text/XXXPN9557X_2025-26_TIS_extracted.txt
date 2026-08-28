@@ -1,0 +1,129 @@
+===== PAGE 1 =====
+General Information
+Permanent Account Number (PAN) Aadhaar Number Name of Assessee
+AFYPN9557J XXXX XXXX 4057 JIGISHA PRATIK SHAH
+Date of Birth Mobile Number E-mail Address
+19/09/1983 9930203893 pratikshah83@gmail.com
+Address
+614 INDRAPRASTHA 1D,RAHEJA TOWNSHIP ,JITENDRA RD, OPP ASHOKA HOSPITAL,MALAD EAST 
+S.O,MUMBAI,MUMBAI,400097,MAHARASHTRA
+-------------------------------------------------------------------- Taxpayer Information Summary (TIS) --------------------------------------------------------------------
+(All amount values are in INR)
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 Interest from savings bank 3,958 3,958
+2 Business receipts 1,19,480 1,19,480
+The information details under each information category is provided on next page.
+Reported by Source - Value as reported by the information source
+Processed by System - Value after processing (including deduplication of information) based on pre-defined rules
+Accepted by Taxpayer/ Confirmed by Source - Value derived after considering the taxpayer's feedback or source's confirmation on taxpayer's feedback (if 
+any) and value Processed by System
+Disclaimer
+Taxpayer Information Summary (TIS) includes information presently available with Income Tax Department. There may be other transactions relating to the 
+taxpayer which are not presently displayed in Taxpayer Information Summary (TIS). Taxpayer is expected to check all related information and report complete 
+and accurate information in the Income Tax Return.
+Taxpayer Information Summary (TIS) Financial Year 2025-26
+Download ID : AFYPN9557J202606240334 IP Address : 
+Generation Date : 24/06/2026, 03:34:16 Page 1 of 2
+===== PAGE 2 =====
+----------------------------------------------------------- Annexure to Taxpayer Information Summary (TIS) -----------------------------------------------------------
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 Interest from savings bank 3,958 3,958
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 SFT Interest income 
+(SFT-016) – Savings 
+HDFC BANK LIMITED 
+(AAACH2702H.AB772)
+Interest 3,514 3,514 3,514
+2 SFT Interest income 
+(SFT-016) – Savings 
+BANK OF MAHARASHTRA 
+(AACCB0774B.AB220)
+Interest 444 444 444
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+2 Business receipts 1,19,480 1,19,480
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED 
+BY SOURCE
+PROCESSED 
+BY SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 TDS/
+TCS
+Receipt of fees for 
+professional or technical 
+services (Section 194J)
+SHREE NAMAN 
+HEAL THCARE PRIVATE 
+LIMITED (MUMS76444E)
+Amount paid/
+credited
+61,461 61,461 61,461
+2 TDS/
+TCS
+Receipt of fees for 
+professional or technical 
+services (Section 194J)
+AARUSH HEAL TH CARE 
+CENTER (MUMA39983G)
+Amount paid/
+credited
+30,000 30,000 30,000
+3 TDS/
+TCS
+Receipt of fees for 
+professional or technical 
+services (Section 194J)
+KIDS CLINIC INDIA LIMITED 
+(BLRK07015B)
+Amount paid/
+credited
+19,769 19,769 19,769
+4 TDS/
+TCS
+Receipt of fees for 
+professional or technical 
+services (Section 194J)
+SBS HEAL THCARE 
+SERVICES PRIVATE LIMITED 
+(MUMS89791C)
+Amount paid/
+credited
+8,250 8,250 8,250
+ 
+PAN Name Financial Year
+AFYPN9557J JIGISHA PRATIK SHAH 2025-26
+Download ID : AFYPN9557J202606240334 IP Address : 
+Generation Date : 24/06/2026, 03:34:16 Page 2 of 2

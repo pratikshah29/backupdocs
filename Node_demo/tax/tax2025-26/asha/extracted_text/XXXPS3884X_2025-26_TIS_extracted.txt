@@ -1,0 +1,220 @@
+===== PAGE 1 =====
+General Information
+Permanent Account Number (PAN) Aadhaar Number Name of Assessee
+AWBPS3884R XXXX XXXX 6997 ASHA MAHENDRAKUMAR SHAH
+Date of Birth Mobile Number E-mail Address
+07/01/1949 9930203893 pratikshah83@gmail.com
+Address
+G28,2ND FLOOR, SARVODAYA NAGAR,MUMBAI,MUMBAI,MUMBAI,400004,MAHARASHTRA
+-------------------------------------------------------------------- Taxpayer Information Summary (TIS) --------------------------------------------------------------------
+(All amount values are in INR)
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 Rent received 23,94,000 23,94,000
+2 Dividend 21 21
+3 Interest from savings bank 2,654 2,654
+4 Interest from deposit 3,752 3,752
+5 Foreign travel 4,00,050 4,00,050
+6 Purchase of securities and units of mutual funds 1,48,993 1,48,993
+The information details under each information category is provided on next page.
+Reported by Source - Value as reported by the information source
+Processed by System - Value after processing (including deduplication of information) based on pre-defined rules
+Accepted by Taxpayer/ Confirmed by Source - Value derived after considering the taxpayer's feedback or source's confirmation on taxpayer's feedback (if 
+any) and value Processed by System
+Disclaimer
+Taxpayer Information Summary (TIS) includes information presently available with Income Tax Department. There may be other transactions relating to the 
+taxpayer which are not presently displayed in Taxpayer Information Summary (TIS). Taxpayer is expected to check all related information and report complete 
+and accurate information in the Income Tax Return.
+Taxpayer Information Summary (TIS) Financial Year 2025-26
+Download ID : AWBPS3884R202606290130 IP Address : 
+Generation Date : 29/06/2026, 01:30:32 Page 1 of 3
+===== PAGE 2 =====
+----------------------------------------------------------- Annexure to Taxpayer Information Summary (TIS) -----------------------------------------------------------
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 Rent received 23,94,000 23,94,000
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 TDS/
+TCS
+Rent received 
+(Section 194IB)
+PRATIK MAHENDRAKUMAR 
+SHAH (ASKPS2937G)
+Amount paid/
+credited
+23,94,000 23,94,000 23,94,000
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+2 Dividend 21 21
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 SFT Dividend income 
+(SFT-015)
+IRB INFRASTRUCTURE 
+DEVELOPERS LIMITED 
+(AABCD1071G.AZ193)
+Total Dividend 
+amount
+21 21 21
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+3 Interest from savings bank 2,654 2,654
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 SFT Interest income 
+(SFT-016) – Savings 
+BANK OF INDIA 
+(AAACB0472C.AB480)
+Interest 2,654 2,654 2,654
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+4 Interest from deposit 3,752 3,752
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED 
+BY SOURCE
+PROCESSED 
+BY SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+1 SFT Interest income (SFT-016) 
+– Term Deposit
+BANK OF INDIA 
+(AAACB0472C.AB480)
+Interest 3,752 3,752 3,752
+2 TDS/
+TCS
+Interest other than 
+“Interest on Securities” 
+received (Section 194A)
+BANK OF INDIA MUMBAI 
+SOUTH ZONAL OFFICE 
+(MUMB12126C)
+Amount paid/
+credited
+3,752 - -
+ 
+PAN Name Financial Year
+AWBPS3884R ASHA MAHENDRAKUMAR SHAH 2025-26
+Download ID : AWBPS3884R202606290130 IP Address : 
+Generation Date : 29/06/2026, 01:30:32 Page 2 of 3
+===== PAGE 3 =====
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+5 Foreign travel 4,00,050 4,00,050
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION 
+SOURCE
+AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 TDS/
+TCS
+Purchase of overseas tour 
+package (Section 
+206C(1G(b)))
+FREEDOM TOURISM 
+(AHMF00922F)
+Amount received/ 
+debited
+4,00,050 4,00,050 4,00,050
+ 
+SR. NO. INFORMATION CATEGORY PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ 
+CONFIRMED BY 
+SOURCE
+6 Purchase of securities and units of mutual funds 1,48,993 1,48,993
+SR. NO. PART INFORMATION 
+DESCRIPTION
+INFORMATION SOURCE AMOUNT 
+DESCRIPTION
+REPORTED BY 
+SOURCE
+PROCESSED BY 
+SYSTEM
+ACCEPTED BY 
+TAXPAYER/ CONFIRMED 
+BY SOURCE
+1 SFT Purchase of mutual 
+funds (SFT - 018)
+KFin Technologies Pvt. Ltd - 
+AXIS MUTUAL FUND(128) 
+(AAGCK6303B)
+Total purchase 
+amount
+1,48,993 1,48,993 1,48,993
+ 
+PAN Name Financial Year
+AWBPS3884R ASHA MAHENDRAKUMAR SHAH 2025-26
+Download ID : AWBPS3884R202606290130 IP Address : 
+Generation Date : 29/06/2026, 01:30:32 Page 3 of 3
