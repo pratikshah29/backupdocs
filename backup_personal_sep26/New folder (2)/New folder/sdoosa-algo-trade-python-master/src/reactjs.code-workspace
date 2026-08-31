@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\reactjs"
+		},
+		{
+			"name": "pythonalgo",
+			"path": "..\\..\\..\\..\\..\\pythonalgo"
+		},
+		{
+			"path": "..\\config"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

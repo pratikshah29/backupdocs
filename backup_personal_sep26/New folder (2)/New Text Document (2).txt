@@ -1,0 +1,21 @@
+There was an error in filling the Schedule HP. I had by mistake entered rent for Property 2(Rs, 12,00,00 as 50% ownership of 24,00,000)
+ in the column for Property 1 which is self occupied property and hence the rental income for Property 1 is 0. I have recieved rental income only for property 2 and property 3
+as declared in Schedule HP. Property 1 is self occupied property and has NIL rental income hence Gross rent received or receivable or letable value(1a) should be  0
+
+I have received Intimation Seeking information/clarification on the data in the return filed " Adjustment of income araising u/s 143(1)(a)(ii) - Disallowance of expenditure and deduction indicated in return in schedule HP not taken into account while computing the total income". Actually i had made an error filling Schedule HP. I have mentioned Property 1 as self occupied property which has 0 rental income but by mistake i have mentioned the rental income of Property 2 in Property 1. Please refer to the example below where (1 a) had to be 0 but but mistake i entered 1,00,000. I need to reply to them about this mistake. Can you please help me formulate a proper reply. For Ex . Property 1 self occupied property a Gross rent received or receivable or letable value (1 a) 1,00,000 b The amount of rent which cannot be realized (1 b) 0 c Tax paid to local authorities (1 c) 0 d Total (1 b + 1 c) 1d 0 e Annual value (1 a – 1 d) (nil, if self -occupied etc. as per section 23(2)of the Act) 1e 1,00,000 f Annual value of the property owned (own percentage share x 1e) 1 f 50,000 g 30% of 1 f 1 g 15,000 h Interest payable on borrowed capital 1 h 0 i Total (1 g + 1 h) 1 i 15,000 j Arrears / Unrealized Rent received during the year Less 30% 1 j 0 k Income from house property 1 (1 f - 1 i + 1 j) 1 k 0 Thanks
+
+Read more at: https://www.caclubindia.com/experts/ask_query.asp
+
+mediassist
+05156@MSCI
+Prtk?shh1831 kdmal22
+
+hewitt : 0051421603/Prtk@831
+
+epfo: 100031032972 /?183
+
+10003103297206001
+etrade: ?183
+tata cap
+Login ID: 33114234
+Password: f4PhZR5E
