@@ -1,0 +1,207 @@
+Question: What will happen if you put return statement or System.exit () on try or catch block? Will finally block execute?
+
+Answer of this tricky question in Java is that finally block will execute even if you put a return statement in the try block or catch block but finally block won't run if you call System.exit form try or catch.
+
+Question: Can you override a private or static method in Java?
+
+Another popular Java tricky question, As I said method overriding is a good topic to ask trick questions in Java.  Anyway, you can not override a private or static method in Java, if you create a similar method with same return type and same method arguments in child class then it will hide the super class method, this is known as method hiding. Similarly, you cannot override a private method in sub class because it's not accessible there, what you do is create another private method with the same name in the child class. See Can you override a private method in Java or more details.
+
+What is the issue with following implementation of compareTo() method in Java
+public int compareTo(Object o){
+   Employee emp = (Employee) emp;
+   return this.id - o.id;
+}
+where the id is an integer number.
+Well, three is nothing wrong in this Java question until you guarantee that id is always positive. This Java question becomes tricky when you can't guarantee that id is positive or negative. the tricky part is, If id becomes negative than subtraction may overflow and produce an incorrect result. See How to override compareTo method in Java for the complete answer of this Java tricky question for an experienced programmer.
+
+package com.instanceofjava;
+ 
+public class B{
+ 
+  B b= new B();
+ 
+ public int show(){
+      return (true ? null : 0);
+ }
+ 
+ public static void main(String[] args)  {
+ 
+        B b= new B();
+        b.show();
+    }
+ 
+}
+
+Exaplanation:
+
+Whenever we create the object of any class constructor will be called first and memory allocated for all non static variables
+Here  B b= new B(); variable is object and assigned to new object of same class
+B b= new B(); statement leads to recursive execution of constructor will create infinite objects so at run time an exception will be raised
+Exception in thread "main" java.lang.StackOverflowError
+The common cause for a stack overflow exception  is a bad recursive call. Typically this is caused when your recursive functions doesn't have the correct termination condition
+
+
+public class A{
+
+ 
+ public static void show(){
+ 
+        System.out.println("Static method called");
+ }
+ 
+ public static void main(String[] args)  {
+ 
+        A obj=null;
+        obj.show();
+ 
+    }
+ 
+}
+
+Static method called
+
+Exaplanation:
+
+We can call static methods using reference variable which is pointing to null because static methods are class level so we can either call using class name and reference variable which is pointing to null.
+
+
+ 
+public class A{
+
+ 
+ static int a = 1111;
+ static
+ {
+        a = a-- - --a;
+ }
+    
+{
+        a = a++ + ++a;
+ }
+ 
+ public static void main(String[] args)  {
+ 
+       System.out.println(a);
+ 
+    }
+ 
+}
+
+output 2
+
+
+public class A
+{
+    A a = new A();
+}
+
+1) Not possible. Because while instantiating, constructor will be called recursively.
+
+
+class A
+{
+    void method(int i)
+    {
+        //method(int)
+    }
+}
+ 
+class B extends A
+{
+    @Override
+    void method(Integer i)
+    {
+        //method(Integer)
+    }
+}
+
+6) No. It gives compile time error. Compiler treats int and Integer as two different types while overriding. Auto-boxing doesn’t happen here.
+
+for(int i = 100000; i > 0; i--) {}
+for(int i = 1; i < 100001; i++) {}
+which one is faster 1st
+
+
+Which one is faster in java ?
+Math.max(a,b);
+(a>b)?a:b
+2nd
+
+
+public class Application {
+    public static void main(String[] args) {
+        
+        String one = "Hello";
+        String two = "Hello";
+        
+        if(one == two) {
+            System.out.println("one == two");
+        }
+        else {
+            System.out.println("one != two");
+        }
+    }
+}
+
+one == two
+
+
+
+
+Surprised? Or not? If you're a complete beginner, you'll probably assume that comparing two strings with == will tell you if they contain the same characters or not.
+More advanced programmers will know that == actually tells you whether two references refer to the same object or not. So you might think the above code would say that the strings are not equal
+The catch is, Java optimises in this case by actually using the same object for these two identical strings. Pretty crazy eh?!
+
+
+Does the following code compile or not? 
+
+Application.java: 
+
+interface IFruit
+{
+    public String TYPE = "Apple";
+}
+
+class Fruit implements IFruit
+{
+
+}
+
+public class Application {
+    public static void main(String[] args) {
+        System.out.println(Fruit.TYPE);
+    }
+}
+
+
+Yes!
+It's a little strange if you're not used to it, but a class that implements an interface also gets the interface's data members.
+What's even stranger is that these data members are static and final even if you don't say so. This use of interfaces is arguably a gross misuse; interfaces should not be used to store constants. But you can still find it in all kinds of APIs. 
+
+
+Does the following code compile or not? 
+
+
+
+public class Application {
+    public static void main(String[] args) {
+        
+        final class Constants {
+            public static String name = "PI";
+        }
+        
+        Thread thread = new Thread(new Runnable() {
+
+            @Override
+            public void run() {
+                System.out.println(Constants.name);
+            }
+            
+        });
+        
+        thread.start();
+    }
+}
+
+No.
+The problem here is that you can only use static variables in static or top-level classes, and we've got a static variable in a class that isn't top-level. 

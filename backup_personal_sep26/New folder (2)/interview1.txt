@@ -1,0 +1,266 @@
+JavaScript
+
+const val = 3 && 2 && 1 && 0 && false
+console.log(val);
+=============================================
+const arr = [1,null,undefined,0,2,"",4];
+
+const result = arr.filter(Boolean);
+=============================================
+const myFun = () =>{
+	return 
+	{
+		prop1: 1,
+		prop2: '2'
+	};
+};
+console.log(myFun());
+
+const myFun = () =>{
+	return {
+		prop1: 1,
+		prop2: '2'
+	};
+};
+
+console.log(myFun());
+================================
+Const obj = {
+	a:1,
+	b:'2'
+}
+let a,b;
+
+{a,b} = obj; // Syntax error you cant destructure an object into existing variable
+
+===========================================================
+const array = [
+	{prop:1},
+	{prop:2}
+]
+const indexOfObject = array.indexOf({prop:1}); // = -1
+indexof uses the strict equality comparision (===) under the hood
+this is why it doesnt work for objects. it can only detect when references match.
+const indexofobject = array.findIndex((element) => element.prop === 1);
+==========================================
+- What is IIFEs (Immediately Invoked Function Expressions)? What is IIFEs (Immediately Invoked Function Expressions)?
+Answer
+It’s an Immediately-Invoked Function Expression, or IIFE for short. It executes immediately after it’s created:
+
+(function IIFE(){
+    console.log( "Hello!" );
+})();
+// "Hello!"
+This pattern is often used when trying to avoid polluting the global namespace, 
+because all the variables used inside the IIFE (like in any other normal function) are not visible outside its scope.
+
+==========================
+- true && "Hi" = > Hi
+- true && "Hi" && 1 => 1
+
+
+
+======================================
+
+- const array = [5,51,2,26,6,1,20];
+
+array.sort(); // [1,2,20,26,5,51,6]
+
+array.sort((a,b) => a-b);
+=============================================
+- Explain the difference between Object.freeze() vs const Explain the difference between Object.freeze() vs const
+
+Answer
+const and Object.freeze are two completely different things.
+
+const applies to bindings ("variables"). It creates an immutable binding, i.e. you cannot assign a new value to the binding.
+const person = {
+  name: "Leonardo"
+};
+let animal = {
+  species: "snake"
+};
+person = animal; // ERROR "person" is read-only
+
+Object.freeze works on values, and more specifically, object values. It makes an object immutable, i.e. you cannot change its properties.
+let person = {
+  name: "Leonardo"
+};
+let animal = {
+  species: "snake"
+};
+Object.freeze(person);
+person.name = "Lima";
+console.log(person);
+
+==============================
+- const array = [1,2,3];
+Object.freeze(array);
+
+array[1] = 2; // no change to array but no error
+array.length = 0; type error
+array.push(4) type error
+
+============================================================================
+
+Q12: What will be the output of the following code? What will be the output of the following code?
+
+Details
+>>var output = (function(x) {
+>>  delete x;
+>>  return x;
+>>})(0);
+
+>>console.log(output);
+Solution
+Above code will output 0 as output. delete operator is used to delete a property from an object. Here x is not an object it's local variable. 
+delete operator doesn't affect local variable.
+
+======================================================
+Q13: What will be the output of the following code? What will be the output of the following code?
+
+Details
+var Employee = {
+  company: 'xyz'
+}
+var emp1 = Object.create(Employee);
+delete emp1.company
+console.log(emp1.company);
+Solution
+Above code will output xyz as output. Here emp1 object got company as prototype property. delete operator doesn't delete prototype property.
+
+emp1 object doesn't have company as its own property. You can test it like:
+
+console.log(emp1.hasOwnProperty('company')); //output : false
+
+However, we can delete company property directly from Employee object using delete Employee.company or we can also delete from emp1 object using __proto__ property delete emp1.__proto__.company.
+
+=========================================================================
+
+Design
+
+3. If my website was slow, how would you diagnose the problem and fix it?
+
+
+This is another question that allows your interviewer to evaluate your process, but this question allows you to discuss your troubleshooting expertise. 
+When answering this question, guide the interviewer through the steps you would take to figure out what causes webpages to slow down and 
+what you would do to increase loading speeds.
+
+Example: “I would inspect various factors on your website. One thing I would do is use a link analysis tool to see if there are any dead links on the 
+website. I would also check the coding on various pages of the site. One solution to the latter problem is to link similar pages to one CSS 
+sheet and simplify the coding.
+
+Another thing I might do is move the JavaScript coding near the bottom of a page’s HTML document. 
+This allows the page to show before all JavaScript coding is downloaded. 
+Additionally, I would check the servers of the website. If allowed, I would change the distribution of the website to a content delivery network. 
+This allows users to access the website via a server that is closer to their locations. After all this, I will again test the speeds of the website.”
+
+- Library design
+
+
+
+
+Angular
+
+------------------- Resource bundle
+
+
+------------------- What are lifecycle hooks in Angular? Explain a few lifecycle hooks.
+
+
+Every component in Angular has a lifecycle, different phases it goes through from the time of creation to the time it's destroyed. Angular provides hooks to tap into these phases and trigger changes at specific phases in a lifecycle.
+
+
+
+ngOnChanges( ) This hook/method is called before ngOnInit and whenever one or more input properties of the component changes.
+This method/hook receives a SimpleChanges object which contains the previous and current values of the property.
+
+ngOnInit( ) This hook gets called once, after the ngOnChanges hook.
+It initializes the component and sets the input properties of the component.
+
+ngDoCheck( ) It gets called after ngOnChanges and ngOnInit and is used to detect and act on changes that cannot be detected by Angular.
+We can implement our change detection algorithm in this hook. ngAfterContentInit( ) It gets called after the first ngDoCheck hook. This hook responds after the content gets projected inside the component.
+
+ngAfterContentChecked( ) It gets called after ngAfterContentInit and every subsequent ngDoCheck. It responds after the projected content is checked.
+
+ngAfterViewInit( ) It responds after a component's view, or a child component's view is initialized.
+
+ngAfterViewChecked( ) It gets called after ngAfterViewInit, and it responds after the component's view, or the child component's view is checked.
+
+ngOnDestroy( ) It gets called just before Angular destroys the component. This hook can be used to clean up the code and detach event handlers.
+
+Let’s understand how to use ngOnInit hook, since it’s the most oftenly used hook. If one has to process lot of data during component creation, it’s better to do it inside ngOnInit hook rather than the constructor:
+
+
+--------------------- How are observables different from promises?
+
+
+The first difference is that an Observable is lazy whereas a Promise is eager.
+
+Promise	Observable
+Emits a single value	Emits multiple values over a period of time
+Not Lazy				Lazy. An observable is not called until we subscribe to the observable
+Cannot be cancelled		Can be cancelled by using the unsubscribe() method Observable provides operators like map, forEach, filter, reduce, retry, retryWhen etc.
+	
+	
+---------------------- Angular by default, uses client-side rendering for its applications.
+
+Can one make an angular application to render on the server-side?
+Yes, angular provides a technology called Angular Universal, which can be used to render applications on the server-side.
+
+The advantages of using Angular Universal are :
+
+First time users can instantly see a view of the application. This benefits in providing better user experience.
+Many search engines expect pages in plain HTML, thus, Universal can make sure that your content is available on every search engine, which leads to better SEO.
+Any server-side rendered application loads faster since rendered pages are available to the browser sooner.
+
+----------------------- How to set ngfor and ngif in the same div or tag?
+
+By using ng-container or ng-template
+
+----------------------- What is virtual DOM? What is virtual DOM?
+
+Answer
+The virtual DOM (VDOM) is an in-memory representation of Real DOM. The representation of a UI is kept in memory and synced with the “real” DOM. It’s a step that happens between the render function being called and the displaying of elements on the screen. This entire process is called reconciliation.
+
+
+
+[10:22 AM] Dondapati, Neelakanth
+• what is hoisting --> explain hoisting with an example
+• implement an autocomplete functionality --> debounce concept --> setTimeout --> how does browser handle setTimeout --> event loop v/s call stack
+• what are polyfills --> how does inheritance work in javascript
+• how to implement caching --> difference between pure and impure functions
+• shallow copying v/s deep copying --> how do u deep copy --> ask example of object copy by reference vs string copy by reference --> how do u compare two objects with same value but different references
+• what is spread operator / rest operator
+• css specificity
+• call/apply/bind
+• how to create immutable objects(prevent extensions, seal, freeze)Programs
+• debounce• array.flat
+const numbers = [1, 2, [3, 4, 5, [6, 7]]];
+numbers.flatten(1); // [1,2,3,4,5,[6,7]]
+numbers.flatten(2); // [1,2,3,4,5,6,7]• bracket checker
+value = "[{[()]}]{[]}" //true
+value = "[{[(})]}]{[(]}" //falseReact/Angular• main difference between react/angular and other libraries
+• How does react/angular work internally --> VirtualDOM --> how to optimized a react/angular application
+• how do u communicate between 2 components in react/angular --> different types of component --> lifecycle hooks in class component and their use
+• how do u do authentication and authorization in your app
+• react/angular folder structure
+• handling global errors in react/angular app
+
+[10:23 AM] Dondapati, Neelakanth
+then normally I ask how to do this and that (what we have done in angular, the same thing in react)
+
+[10:24 AM] Dondapati, Neelakanth
+like creating dynamic components, having common pipes(like number formatting), applying a directive etc
+
+[10:25 AM] Dondapati, Neelakanth
+and most imp, ask them how to optimze a react app...that shud cover a lot of things(virtual Dom, lazy loading etc)
+
+[10:25 AM] Dondapati, Neelakanth
+and also debugging a react app
+
+[10:26 AM] Dondapati, Neelakanth
+that shud test their analytical skills and if they have really worked in a react project
+
+
+

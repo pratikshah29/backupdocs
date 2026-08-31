@@ -1,0 +1,177 @@
+https://api.kite.trade/instruments/NFO
+
+
+What is multicasting?
+Multi-casting is the practice of broadcasting to a list of multiple subscribers in a single execution. Let's demonstrate the multi-casting feature,
+
+Fundamental difference is that CSRF (Cross-site Request forgery) happens in authenticated sessions when the server trusts the user/browser,
+ while XSS (Cross-Site scripting) doesn't need an authenticated session and can be exploited when the vulnerable website doesn't do the basics of validating or escaping input.
+cookies http only flag
+
+JWT
+
+
+var source = Rx.Observable.from([1, 2, 3]);
+var subject = new Rx.Subject();
+var multicasted = source.multicast(subject);
+
+// These are, under the hood, `subject.subscribe({...})`:
+multicasted.subscribe({
+  next: (v) => console.log('observerA: ' + v)
+});
+multicasted.subscribe({
+  next: (v) => console.log('observerB: ' + v)
+});
+
+// This is, under the hood, `s
+
+What happens if you use script tag inside template?
+Angular recognizes the value as unsafe and automatically sanitizes it, which removes the <script> tag but keeps safe content such as the text content 
+of the <script> tag. This way it eliminates the risk of script injection attacks. If you still use it then it will be ignored and a warning appears in 
+the browser console. Let's take an example of innerHtml property binding which causes XSS vulnerability,
+
+export class InnerHtmlBindingComponent {
+  // For example, a user/attacker-controlled value from a URL.
+  htmlSnippet = 'Template <script>alert("0wned")</script> <b>Syntax</b>';
+}
+
+23. Differentiate between Observables and Promises.
+Observables are lazy, which means nothing happens until a subscription is made. Whereas Promises are eager; which means as soon as a promise 
+is created, the execution takes place. Observable is a stream in which passing of zero or more events is possible and the callback is called for each event.
+ Whereas, promise handles a single event. 
+ 
+- caching 
+- ngtemplate pass to different component
+
+- rxjs - observers - subjects
+On top of vanilla subjects, there are also a few specialized types of subjects like async subjects, 
+behavior subjects and replay subjects. In this post, we’ll introduce subjects, behavior subjects and replay subjects.
+- child routes - bundle name - compile 
+- auxiliary routes
+
+What is the use of @Input and @Output? 
+Parent to Child: Sharing Data via Input
+Child to Parent: Sharing Data via ViewChild
+Child to Parent: Sharing Data via Output() and EventEmitter
+Unrelated Components: Sharing Data with a Service
+
+- can we have multiple router outlets
+- ng model [()] split
+- elvis operator
+- app guard
+
+27. What is Redux? 7
+It is a library which helps us maintain the state of the application. Redux is not required in applications that are simple with the simple data flow, it is used in Single Page Applications that have complex data flow. 
+
+- template variable id
+- form element change which class does it set to ng-dirty
+
+Question 6. What Is Pure Pipe?
+
+Answer :
+
+Angular executes a pure pipe only when it detects a pure change to the input value. A pure change can be primitive or non-primitive.
+
+Primitive data are only single values, they have not special capabilities and the non-primitive data types are used to store the group of values.
+
+@Pipe({
+
+  name: 'currency'
+
+})
+
+Question 7. What Is Impure Pipe?
+
+Answer :
+
+Angular executes an impure pipe during every component change detection cycle. An impure pipe is called often, as often as every keystroke or mouse-move.
+
+If you want to make a pipe impure that time you will allow the setting pure flag to false.
+
+@Pipe({
+
+  name: 'currency',
+
+  pure:false
+
+})
+
+Question 8. What Is Parameterizing Pipe?
+
+Answer :
+
+A pipe can accept any number of optional parameters to achieve output. The parameter value can be any valid template expressions. To add optional parameters follow the pipe name with a colon (:). Its looks like- currency: 'INR'
+
+In the following example –
+
+<h2>The birthday is - {{ birthday | date:"MM/dd/yy" }} </h2>
+
+<!-- Output - The birthday is - 10/03/1984 -->
+
+Question 9. What Is Chaining Pipe?
+
+Answer :
+
+The chaining Pipe is used to perform the multiple operations within the single expression. This chaining operation will be chained using the pipe (I).
+
+In the following example, to display the birthday in the upper case- will need to use the inbuilt date-pipe and upper-case-pipe.
+
+In the following example –
+
+{{ birthday | date | uppercase}}
+
+
+14. What are differences between Constructors and OnInit?
+Constructors:-
+1.      The constructor is a default method runs when a component is being constructed.
+2.      The constructor is a typescript feature and it is used only for a class instantiations.
+3.      The constructor called first time before the ngOnInit().
+ngOnInit:-
+1.      The ngOnInit event is an Angular 5 life-cycle event method that is called after the first ngOnChanges and the ngOnInit method is use to parameters defined with @Input otherwise the constructor is OK.
+2.      The ngOnInit is called after the constructor and ngOnInit is called after the first ngOnChanges.
+3.      The ngOnChanges is called when an input or output binding value changes.
+
+
+ngOnChanges()	
+Respond when Angular (re)sets data-bound input properties. The method receives a SimpleChanges object of current and previous property values.
+
+Called before ngOnInit() and whenever one or more data-bound input properties change.
+
+ngOnInit()	
+Initialize the directive/component after Angular first displays the data-bound properties and sets the directive/component's input properties.
+
+Called once, after the first ngOnChanges().
+
+ngDoCheck()	
+Detect and act upon changes that Angular can't or won't detect on its own.
+
+Called during every change detection run, immediately after ngOnChanges() and ngOnInit().
+
+ngAfterContentInit()	
+Respond after Angular projects external content into the component's view / the view that a directive is in.
+
+Called once after the first ngDoCheck().
+
+ngAfterContentChecked()	
+Respond after Angular checks the content projected into the directive/component.
+
+Called after the ngAfterContentInit() and every subsequent ngDoCheck().
+
+ngAfterViewInit()	
+Respond after Angular initializes the component's views and child views / the view that a directive is in.
+
+Called once after the first ngAfterContentChecked().
+
+ngAfterViewChecked()	
+Respond after Angular checks the component's views and child views / the view that a directive is in.
+
+Called after the ngAfterViewInit and every subsequent ngAfterContentChecked().
+
+ngOnDestroy()
+
+27. What is the difference between ActivatedRoute and RouterState in Angular 5?
+ActivateRoute and RouterState both refer to Routing in Angular 5.
+
+ActivatedRoute consists of the information about a route associated with the component loaded in outlet whereas RouterState represents the state.
+ActivatedRouteSnapshort has old data When Route changes, ActivateRouteSnapshort has data from the previous route whereas the RouteState care about the arrangements and application components.
+ActivatedRouteSnapchat to traverse all the activated routes whereas RouterState maintains the states.
